@@ -1,3 +1,10 @@
+---
+title: "Datadog Real Estate Tech"
+description: "Expert insights on how Datadog Real Estate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Global Payroll Operations: How Datadog Can Help Real Estate Tech Companies
 As the real estate tech industry continues to expand globally, managing multi-currency cross-border payroll has become a significant challenge. Manual reconciliation of payroll data can be time-consuming, prone to errors, and may lead to compliance issues. In this blog post, we will explore how Datadog can help real estate tech companies streamline their global payroll operations and overcome the hurdles of manual reconciliation.
 

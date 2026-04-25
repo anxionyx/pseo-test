@@ -1,3 +1,10 @@
+---
+title: "Workday Foodtech"
+description: "Expert insights on how Workday Foodtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant FoodTech Environments with Workday
 The FoodTech industry has witnessed unprecedented growth in recent years, driven by advances in technology, changing consumer preferences, and the need for sustainable food production. However, this growth also comes with its set of challenges, particularly in terms of data privacy and compliance. The General Data Protection Regulation (GDPR) has set a new standard for data protection, and FoodTech companies operating in multi-tenant environments face unique challenges in ensuring compliance. In this blog post, we will explore how Workday can help simplify complex compliance reporting for GDPR in multi-tenant FoodTech environments.
 

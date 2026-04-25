@@ -1,3 +1,10 @@
+---
+title: "Asana Climate Tech"
+description: "Expert insights on how Asana Climate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Climate Tech: Unifying Audit Logs for Microservices Orchestration with Asana
 As the world shifts towards a more sustainable and environmentally conscious future, the climate tech industry is rapidly growing. With this growth comes an increased need for efficient and streamlined operations. However, one of the major challenges climate tech companies face is the lack of unified audit logs for microservices orchestration. In this post, we'll explore how Asana can help solve this problem and improve overall operational efficiency.
 

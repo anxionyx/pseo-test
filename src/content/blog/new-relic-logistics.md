@@ -1,3 +1,10 @@
+---
+title: "New Relic Logistics"
+description: "Expert insights on how New Relic Logistics can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Logistics Environments with New Relic
 Logistics companies operating in multi-tenant environments face numerous challenges, particularly when it comes to ensuring compliance with stringent regulations such as the General Data Protection Regulation (GDPR). The GDPR, which came into effect in 2018, imposes strict data protection and privacy requirements on organizations that handle personal data of EU residents. In a multi-tenant setup, where several tenants share the same infrastructure and resources, managing and reporting compliance can become increasingly complex. This is where New Relic, a leading observability platform, can play a pivotal role in simplifying complex compliance reporting for GDPR.
 

@@ -1,3 +1,10 @@
+---
+title: "Splunk Climate Tech"
+description: "Expert insights on how Splunk Climate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in Climate Tech
 #### Introduction to the Challenge
 Climate Tech, an industry at the forefront of innovation and sustainability, faces unique operational challenges. One of the most significant hurdles in this sector is managing the complex, hybrid cloud environments that support their critical operations. The shift towards hybrid cloud models, combining on-premises infrastructure with public and private cloud services, has introduced a new layer of complexity: fragmented infrastructure visibility. This challenge hampers the ability of Climate Tech companies to monitor, manage, and optimize their IT infrastructure efficiently.

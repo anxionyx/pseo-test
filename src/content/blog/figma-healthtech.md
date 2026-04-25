@@ -1,3 +1,10 @@
+---
+title: "Figma Healthtech"
+description: "Expert insights on how Figma Healthtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Customer Support in HealthTech: How Figma Can Bridge the Gap in Disconnected Feedback Loops
 The HealthTech industry has witnessed unprecedented growth, driven by the demand for digital health services and innovative solutions. However, as HealthTech companies scale, they often encounter challenges in their customer support workflows. One of the most significant pain points is the presence of disconnected customer feedback loops, which can hinder the ability to provide timely and effective support. In this blog post, we'll explore how Figma, a leading design and collaboration platform, can help HealthTech companies streamline their customer support workflows and bridge the gap in disconnected feedback loops.
 

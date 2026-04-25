@@ -1,3 +1,10 @@
+---
+title: "Datadog Manufacturing"
+description: "Expert insights on how Datadog Manufacturing can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Fragmented Infrastructure Visibility in Hybrid Cloud Clusters for Manufacturers
 Manufacturing companies are increasingly adopting hybrid cloud strategies to enhance agility, scalability, and cost-effectiveness. However, this transition often leads to fragmented infrastructure visibility, making it challenging for IT teams to monitor and manage their complex environments. In this blog post, we'll explore how Datadog can help manufacturers overcome these challenges and achieve unified visibility across their hybrid cloud clusters.
 

@@ -1,3 +1,10 @@
+---
+title: "Salesforce Real Estate Tech"
+description: "Expert insights on how Salesforce Real Estate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving the Lack of Unified Audit Logs for Microservices Orchestration in Real Estate Tech with Salesforce
 The real estate technology (Real Estate Tech) industry has experienced significant growth in recent years, driven by the increasing demand for digital solutions to enhance the home buying and selling experience. As a result, many real estate companies have adopted microservices architecture to improve the scalability and flexibility of their applications. However, this shift has also introduced new challenges, particularly when it comes to auditing and logging. In this blog post, we will explore the issue of lack of unified audit logs for microservices orchestration in Real Estate Tech and how Salesforce can help solve this problem.
 

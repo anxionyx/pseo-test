@@ -1,3 +1,10 @@
+---
+title: "Jira Cybersecurity"
+description: "Expert insights on how Jira Cybersecurity can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Cybersecurity with Jira: Automating Manual Reconciliation of Multi-Currency Cross-Border Payroll
 As cybersecurity threats continue to evolve, companies are under increasing pressure to ensure the integrity of their systems and data. One often overlooked aspect of cybersecurity is the manual reconciliation of multi-currency cross-border payroll, which can be a time-consuming and error-prone process. In this blog post, we will explore how Jira can be used to automate this process, reducing the risk of human error and improving the overall efficiency of cybersecurity operations.
 

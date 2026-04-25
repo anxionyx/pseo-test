@@ -1,3 +1,10 @@
+---
+title: "Jira Gaming"
+description: "Expert insights on how Jira Gaming can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Multi-Currency Cross-Border Payroll with Jira: A Game-Changer for the Gaming Industry
 The gaming industry has experienced unprecedented growth in recent years, with the global market projected to reach [$190 billion by 2025](https://www.statista.com/topics/2387/video-games/). As the industry continues to expand, gaming companies are faced with the challenge of managing complex global operations, including multi-currency cross-border payroll. Manual reconciliation of payroll can be a time-consuming and error-prone process, taking away from the core focus of game development and innovation. This is where [Jira](https://www.atlassian.com/software/jira) comes in – a powerful tool that can help streamline payroll processes and free up resources for what matters most: creating engaging gaming experiences.
 

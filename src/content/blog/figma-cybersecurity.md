@@ -1,3 +1,10 @@
+---
+title: "Figma Cybersecurity"
+description: "Expert insights on how Figma Cybersecurity can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Cybersecurity: Solving Manual Reconciliation of Multi-Currency Cross-Border Payroll with Figma
 #### Introduction
 In the realm of cybersecurity, protecting sensitive data is paramount. One often overlooked aspect is the manual reconciliation of multi-currency cross-border payroll, which can be a tedious and error-prone process. This is where Figma, a cloud-based design tool, can play a crucial role in streamlining cybersecurity by automating and securing payroll processes.

@@ -1,3 +1,10 @@
+---
+title: "Amplitude Govtech"
+description: "Expert insights on how Amplitude Govtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Bottlenecks in CI/CD Pipelines: A GovTech Perspective
 #### Overcoming Legacy Testing Frameworks with Amplitude
 

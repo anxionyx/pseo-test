@@ -1,7 +1,8 @@
 ---
 title: "Procore For Construction"
+description: "Expert insights on how Procore For Construction can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Procore For Construction"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Streamlining Construction Operations: How Procore Enhances Real-Time Updates

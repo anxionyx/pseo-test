@@ -1,3 +1,10 @@
+---
+title: "Servicenow Climate Tech"
+description: "Expert insights on how Servicenow Climate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Climate Tech CI/CD Pipelines with ServiceNow
 #### Overcoming Legacy Testing Framework Bottlenecks
 

@@ -1,3 +1,10 @@
+---
+title: "Intercom Real Estate Tech"
+description: "Expert insights on how Intercom Real Estate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Challenge for Real Estate Tech
 The real estate tech industry has experienced unprecedented growth in recent years, with technology transforming the way properties are bought, sold, and managed. However, as real estate tech companies scale, they often face challenges in managing their distributed software engineering teams. One of the most significant hurdles is inefficient resource allocation, which can hinder a company's ability to deliver high-quality products and services. In this post, we'll explore the issue of inefficient resource allocation in distributed software engineering teams and how Intercom can help real estate tech companies overcome this challenge.
 

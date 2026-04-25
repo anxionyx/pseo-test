@@ -1,3 +1,10 @@
+---
+title: "Figma Foodtech"
+description: "Expert insights on how Figma Foodtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant FoodTech Environments with Figma
 The FoodTech industry has experienced rapid growth in recent years, with many companies leveraging technology to improve the way we produce, distribute, and consume food. However, this growth has also introduced new challenges, particularly when it comes to data privacy and compliance with regulations such as the General Data Protection Regulation (GDPR). In multi-tenant environments, where multiple companies share the same infrastructure, ensuring GDPR compliance can be especially complex. This is where Figma, a cloud-based design and collaboration tool, can help simplify complex compliance reporting.
 

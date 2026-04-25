@@ -1,3 +1,10 @@
+---
+title: "Salesforce Edtech"
+description: "Expert insights on how Salesforce Edtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Breaking Down Data Silos in EdTech: Unlocking the Power of Unified Customer Insights with Salesforce
 The education technology (EdTech) industry has experienced rapid growth in recent years, driven by the increasing demand for online learning and digital educational resources. As EdTech companies expand their offerings and reach, they often rely on a patchwork of legacy CRM systems and modern marketing tools to manage their customer interactions. However, this can lead to a major challenge: data silos.
 

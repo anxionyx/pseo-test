@@ -1,3 +1,10 @@
+---
+title: "Workday Energy"
+description: "Expert insights on how Workday Energy can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving High Latency in Real-Time Inventory Synchronization for Energy Companies with Workday
 Energy companies rely heavily on efficient inventory management to ensure seamless operations and meet customer demands. However, one of the significant challenges they face is high latency in real-time inventory synchronization. This issue can lead to inaccurate inventory levels, stockouts, and overstocking, ultimately affecting the bottom line. In this blog post, we will explore how Workday can help energy companies overcome high latency in real-time inventory synchronization.
 

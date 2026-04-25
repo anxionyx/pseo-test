@@ -1,3 +1,10 @@
+---
+title: "Intercom Climate Tech"
+description: "Expert insights on how Intercom Climate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in Climate Tech
 #### Introduction to Climate Tech Infrastructure Challenges
 

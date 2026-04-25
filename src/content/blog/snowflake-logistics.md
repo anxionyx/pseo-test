@@ -1,3 +1,10 @@
+---
+title: "Snowflake Logistics"
+description: "Expert insights on how Snowflake Logistics can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Logistics: Solving Manual Reconciliation of Multi-Currency Cross-Border Payroll with Snowflake
 ===========================================================
 

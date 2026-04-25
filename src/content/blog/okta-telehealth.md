@@ -1,3 +1,10 @@
+---
+title: "Okta Telehealth"
+description: "Expert insights on how Okta Telehealth can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps for Telehealth with Okta
 The telehealth industry has experienced significant growth in recent years, with the COVID-19 pandemic accelerating the adoption of remote healthcare services. As a result, telehealth providers have had to quickly scale their operations to meet the increasing demand, often relying on cross-platform mobile apps to deliver care to patients. However, one of the major challenges these providers face is inconsistent user behavior tracking across these mobile apps.
 

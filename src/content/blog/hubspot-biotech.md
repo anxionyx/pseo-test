@@ -1,3 +1,10 @@
+---
+title: "Hubspot Biotech"
+description: "Expert insights on how Hubspot Biotech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Biotech Environments
 The biotech industry is no stranger to complex regulatory requirements, and the General Data Protection Regulation (GDPR) is no exception. As a biotech company operating in a multi-tenant environment, ensuring compliance with GDPR can be a daunting task. In this post, we'll explore the challenges of complex compliance reporting for GDPR in multi-tenant biotech environments and provide solutions for simplifying this process.
 

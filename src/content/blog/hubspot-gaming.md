@@ -1,3 +1,10 @@
+---
+title: "Hubspot Gaming"
+description: "Expert insights on how Hubspot Gaming can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Bottlenecks in CI/CD Pipelines: A Guide for Gaming Companies
 The gaming industry is one of the most rapidly evolving and competitive markets in the world. With the rise of cloud gaming, cross-platform play, and live service models, gaming companies must be able to deliver high-quality, engaging experiences to their players quickly and efficiently. However, many gaming companies are held back by bottlenecks in their Continuous Integration/Continuous Deployment (CI/CD) pipelines, often caused by legacy testing frameworks.
 

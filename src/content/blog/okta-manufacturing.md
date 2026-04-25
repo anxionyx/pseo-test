@@ -1,3 +1,10 @@
+---
+title: "Okta Manufacturing"
+description: "Expert insights on how Okta Manufacturing can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining CI/CD Pipelines in Manufacturing: Overcoming Legacy Testing Framework Bottlenecks with Okta
 The manufacturing sector has undergone significant transformations in recent years, driven by technological advancements and the need for enhanced efficiency. One critical area of focus has been the adoption of Continuous Integration/Continuous Deployment (CI/CD) pipelines to expedite the software development lifecycle. However, many manufacturing companies are hindered by legacy testing frameworks that create bottlenecks in their CI/CD pipelines. In this blog post, we'll explore how Okta can help manufacturing organizations overcome these bottlenecks and achieve streamlined CI/CD pipelines.
 

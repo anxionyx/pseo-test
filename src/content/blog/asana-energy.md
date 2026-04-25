@@ -1,3 +1,10 @@
+---
+title: "Asana Energy"
+description: "Expert insights on how Asana Energy can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving High Latency in Real-Time Inventory Synchronization for Energy Companies with Asana
 #### Introduction
 In the energy sector, efficient inventory management is crucial for ensuring the smooth operation of power plants, distribution networks, and other critical infrastructure. Real-time inventory synchronization is essential for energy companies to respond promptly to changes in demand, supply chain disruptions, and other factors that can impact their operations. However, high latency in inventory synchronization can lead to delays, inefficiencies, and even safety risks. In this blog post, we will explore how Asana can help energy companies solve the problem of high latency in real-time inventory synchronization.

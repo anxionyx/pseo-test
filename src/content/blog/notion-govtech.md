@@ -1,3 +1,10 @@
+---
+title: "Notion Govtech"
+description: "Expert insights on how Notion Govtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 # Solving the Lack of Unified Audit Logs for Microservices Orchestration in GovTech with Notion
 ===========================================================
 

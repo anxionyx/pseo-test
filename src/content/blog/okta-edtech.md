@@ -1,3 +1,10 @@
+---
+title: "Okta Edtech"
+description: "Expert insights on how Okta Edtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving High Latency in Real-Time Inventory Synchronization for EdTech with Okta
 The education sector has undergone significant transformations in recent years, with the integration of technology being a key driver. EdTech, a portmanteau of education and technology, has revolutionized the way educational institutions operate, from student management systems to digital learning platforms. However, with the increased reliance on digital tools comes the challenge of managing and synchronizing inventory across different systems in real-time. High latency in inventory synchronization can lead to inefficiencies, discrepancies, and ultimately, a poor user experience. In this blog post, we will explore how Okta can help solve the issue of high latency in real-time inventory synchronization for EdTech.
 

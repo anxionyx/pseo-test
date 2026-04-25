@@ -1,3 +1,10 @@
+---
+title: "Okta Real Estate Tech"
+description: "Expert insights on how Okta Real Estate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Breaking Down Data Silos in Real Estate Tech: How Okta Can Help
 The real estate industry has undergone significant transformations in recent years, driven by technological advancements and changing consumer behaviors. As a result, real estate companies are leveraging a wide range of tools and platforms to manage their operations, from legacy CRM systems to modern marketing tools. However, this has created a new challenge: data silos.
 

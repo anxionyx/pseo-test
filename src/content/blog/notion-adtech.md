@@ -1,3 +1,10 @@
+---
+title: "Notion Adtech"
+description: "Expert insights on how Notion Adtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining AdTech CI/CD Pipelines with Notion: Overcoming Legacy Testing Framework Bottlenecks
 The AdTech industry is renowned for its rapid pace and constant innovation, with companies continually striving to deliver more personalized, efficient, and data-driven advertising solutions. At the heart of this innovation are complex software development and deployment processes, particularly Continuous Integration/Continuous Deployment (CI/CD) pipelines. These pipelines are crucial for ensuring that software changes are delivered quickly and reliably. However, many AdTech companies face significant bottlenecks in their CI/CD pipelines due to outdated or legacy testing frameworks. This is where Notion, a versatile and powerful productivity platform, can play a pivotal role in streamlining these processes.
 

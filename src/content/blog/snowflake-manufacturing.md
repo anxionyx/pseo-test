@@ -1,3 +1,10 @@
+---
+title: "Snowflake Manufacturing"
+description: "Expert insights on how Snowflake Manufacturing can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving the Lack of Unified Audit Logs for Microservices Orchestration in Manufacturing with Snowflake
 Manufacturing companies are increasingly adopting microservices architecture to improve scalability, flexibility, and resilience in their operations. However, this shift also introduces new challenges, particularly in regards to auditing and logging. The lack of unified audit logs for microservices orchestration can hinder a company's ability to track, monitor, and analyze activities across different services. In this blog post, we will explore how Snowflake can help solve this problem and provide a unified view of audit logs for manufacturing companies.
 

@@ -1,3 +1,10 @@
+---
+title: "Stripe Logistics"
+description: "Expert insights on how Stripe Logistics can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Logistics Environments with Stripe
 #### Introduction to GDPR Compliance in Logistics
 The logistics industry, characterized by its complex network of suppliers, carriers, and customers, faces unique challenges when it comes to compliance with the General Data Protection Regulation (GDPR). GDPR, which came into effect in 2018, imposes strict data protection and privacy rules for companies operating within the European Union (EU) and those that offer goods or services to EU residents. One of the most daunting tasks for logistics companies, especially those operating in multi-tenant environments, is navigating the complexities of GDPR compliance reporting.

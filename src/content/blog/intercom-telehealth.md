@@ -1,3 +1,10 @@
+---
+title: "Intercom Telehealth"
+description: "Expert insights on how Intercom Telehealth can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Telehealth Multi-Tenant Environments with Intercom
 #### Introduction to Telehealth and GDPR Compliance
 The telehealth industry has experienced rapid growth, driven by the need for remote healthcare services. As telehealth platforms expand, they must navigate complex compliance requirements, particularly in multi-tenant environments. One of the most stringent regulations is the General Data Protection Regulation (GDPR), which applies to any organization handling personal data of EU citizens. In this blog post, we will explore how Intercom can help telehealth companies simplify complex compliance reporting for GDPR in multi-tenant environments.

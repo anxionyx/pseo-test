@@ -1,3 +1,10 @@
+---
+title: "Okta Energy"
+description: "Expert insights on how Okta Energy can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in the Energy Sector with Okta
 The energy sector is undergoing a significant transformation, driven by the need for digitalization, decentralization, and decarbonization. As energy companies navigate this complex landscape, they are adopting hybrid cloud strategies to improve agility, reduce costs, and enhance innovation. However, this shift towards hybrid cloud environments has introduced a new challenge: fragmented infrastructure visibility across multiple cloud clusters.
 

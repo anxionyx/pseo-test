@@ -1,7 +1,8 @@
 ---
 title: "Canva For Dentists"
+description: "Expert insights on how Canva For Dentists can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Canva For Dentists"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Canva: The Ultimate Solution for Dentists to Create Engaging Social Media Posts

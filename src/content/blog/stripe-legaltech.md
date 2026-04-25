@@ -1,3 +1,10 @@
+---
+title: "Stripe Legaltech"
+description: "Expert insights on how Stripe Legaltech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A LegalTech Solution with Stripe
 ====================================================================
 

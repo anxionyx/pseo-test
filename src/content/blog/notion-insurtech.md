@@ -1,3 +1,10 @@
+---
+title: "Notion Insurtech"
+description: "Expert insights on how Notion Insurtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 # Unified Audit Logs for InsurTech: Streamlining Microservices Orchestration with Notion
 The InsurTech industry has witnessed a significant surge in the adoption of microservices architecture, enabling companies to develop and deploy applications more efficiently. However, this shift has also introduced new challenges, particularly when it comes to auditing and logging. In this post, we'll explore how Notion can help InsurTech companies overcome the lack of unified audit logs for microservices orchestration.
 

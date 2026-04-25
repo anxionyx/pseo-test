@@ -1,3 +1,10 @@
+---
+title: "Airtable Edtech"
+description: "Expert insights on how Airtable Edtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Cross-Border Payroll with Airtable: A Solution for EdTech
 The education technology (EdTech) sector has experienced rapid growth, with many organizations expanding their operations globally. This expansion has brought about new challenges, particularly when it comes to managing cross-border payroll. One of the most significant pain points EdTech companies face is the manual reconciliation of multi-currency payroll, which can be time-consuming, prone to errors, and costly. In this blog post, we will explore how Airtable can help EdTech companies streamline their cross-border payroll processes, reducing manual reconciliation and increasing efficiency.
 

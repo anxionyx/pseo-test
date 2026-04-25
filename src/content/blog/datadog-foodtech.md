@@ -1,3 +1,10 @@
+---
+title: "Datadog Foodtech"
+description: "Expert insights on how Datadog Foodtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving High Latency in Real-Time Inventory Synchronization for FoodTech with Datadog
 #### Introduction to FoodTech and Inventory Synchronization
 The FoodTech industry has witnessed significant growth in recent years, driven by the increasing demand for online food delivery and meal kit services. As a result, FoodTech companies are under pressure to ensure seamless operations, including real-time inventory synchronization. However, high latency in inventory synchronization can lead to stockouts, overstocking, and disappointed customers. In this blog post, we will explore how Datadog can help FoodTech companies solve the issue of high latency in real-time inventory synchronization.

@@ -1,3 +1,10 @@
+---
+title: "Jira Biotech"
+description: "Expert insights on how Jira Biotech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Biotech Microservices Orchestration with Jira: Unified Audit Logs
 The biotech industry has witnessed a significant surge in the adoption of microservices architecture, driven by the need for scalability, flexibility, and rapid innovation. However, as biotech companies continue to navigate this complex landscape, they often encounter a pressing challenge: the lack of unified audit logs for microservices orchestration. This issue can lead to reduced visibility, increased compliance risks, and decreased overall efficiency. In this blog post, we will explore how Jira can help biotech companies overcome this hurdle and streamline their microservices orchestration.
 

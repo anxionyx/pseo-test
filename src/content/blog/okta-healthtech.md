@@ -1,3 +1,10 @@
+---
+title: "Okta Healthtech"
+description: "Expert insights on how Okta Healthtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Disconnected Customer Feedback Loops in HealthTech Customer Support Workflows with Okta
 The HealthTech industry has witnessed significant growth in recent years, with the global market expected to reach $504.4 billion by 2025. As HealthTech companies continue to innovate and expand their services, they must prioritize customer experience to stay competitive. However, many HealthTech companies struggle with disconnected customer feedback loops in their customer support workflows, leading to poor customer satisfaction and loyalty. In this blog post, we will explore the challenges of disconnected customer feedback loops and how Okta can help HealthTech companies solve this problem.
 

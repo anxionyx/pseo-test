@@ -1,3 +1,10 @@
+---
+title: "Airtable Fintech"
+description: "Expert insights on how Airtable Fintech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Fintech CI/CD Pipelines with Airtable: Overcoming Legacy Testing Framework Bottlenecks
 The fintech industry is experiencing rapid growth, driven by technological advancements and changing consumer behavior. As fintech companies strive to stay competitive, they must prioritize agility, security, and reliability in their software development and deployment processes. Continuous Integration and Continuous Deployment (CI/CD) pipelines play a critical role in achieving these goals. However, many fintech organizations face significant bottlenecks in their CI/CD pipelines due to outdated legacy testing frameworks. In this blog post, we will explore how Airtable can help fintech companies overcome these bottlenecks and streamline their CI/CD pipelines.
 

@@ -1,3 +1,10 @@
+---
+title: "Stripe Climate Tech"
+description: "Expert insights on how Stripe Climate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Disconnected Customer Feedback Loops in Climate Tech Customer Support Workflows with Stripe
 ====================================================================================
 

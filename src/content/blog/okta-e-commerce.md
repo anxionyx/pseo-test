@@ -1,3 +1,10 @@
+---
+title: "Okta E Commerce"
+description: "Expert insights on how Okta E Commerce can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving High Latency in Real-Time Inventory Synchronization for E-commerce with Okta
 #### Introduction to the Problem
 E-commerce businesses rely on accurate and up-to-date inventory levels to ensure a seamless customer experience. However, many e-commerce companies struggle with high latency in real-time inventory synchronization, leading to issues such as overselling, stockouts, and frustrated customers. In this blog post, we will explore how Okta can help solve the problem of high latency in real-time inventory synchronization for e-commerce businesses.

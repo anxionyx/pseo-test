@@ -1,3 +1,10 @@
+---
+title: "Datadog Adtech"
+description: "Expert insights on how Datadog Adtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inefficient Resource Allocation in AdTech: How Datadog Can Help
 The AdTech industry is rapidly evolving, with companies constantly striving to deliver personalized, high-quality user experiences while maximizing revenue. However, one significant challenge many AdTech companies face is inefficient resource allocation in their distributed software engineering teams. In this post, we'll explore how [Datadog](https://www.datadoghq.com/), a leading monitoring and analytics platform, can help AdTech companies optimize their resource allocation and improve overall performance.
 

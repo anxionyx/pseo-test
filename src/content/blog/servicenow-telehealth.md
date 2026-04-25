@@ -1,3 +1,10 @@
+---
+title: "Servicenow Telehealth"
+description: "Expert insights on how Servicenow Telehealth can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inconsistent User Behavior Tracking in Telehealth Mobile Apps: A Solution with ServiceNow
 The telehealth industry has experienced significant growth in recent years, with more patients turning to mobile apps for remote healthcare services. However, as the use of these apps becomes more widespread, healthcare providers are facing a new challenge: inconsistent user behavior tracking across different platforms. In this post, we'll explore the issue of inconsistent user behavior tracking in cross-platform mobile apps and how ServiceNow can provide a solution.
 

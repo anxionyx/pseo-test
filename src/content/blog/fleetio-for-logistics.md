@@ -1,7 +1,8 @@
 ---
 title: "Fleetio For Logistics"
+description: "Expert insights on how Fleetio For Logistics can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Fleetio For Logistics"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Predictive Maintenance Scheduling for Vehicle Fleets: How Fleetio Can Help Logistics

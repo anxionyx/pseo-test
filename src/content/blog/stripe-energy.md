@@ -1,3 +1,10 @@
+---
+title: "Stripe Energy"
+description: "Expert insights on how Stripe Energy can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Breaking Down Data Silos in the Energy Sector: How Stripe Can Help
 The energy sector is undergoing a significant transformation, driven by the need to reduce carbon emissions, improve efficiency, and enhance customer experience. As energy companies navigate this shift, they face numerous challenges, including the integration of legacy systems with modern marketing tools. In this blog post, we will explore how Stripe can help energy companies break down data silos between their legacy CRM and modern marketing tools, enabling them to make data-driven decisions and drive business growth.
 

@@ -1,3 +1,10 @@
+---
+title: "Workday Adtech"
+description: "Expert insights on how Workday Adtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inefficient Resource Allocation in AdTech: How Workday Can Help
 The AdTech industry is a complex and rapidly evolving space, with companies constantly striving to stay ahead of the curve. One of the key challenges faced by AdTech companies is inefficient resource allocation in distributed software engineering teams. In this blog post, we'll explore the issues surrounding resource allocation and how Workday can help AdTech companies optimize their operations.
 

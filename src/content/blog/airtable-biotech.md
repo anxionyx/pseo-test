@@ -1,3 +1,10 @@
+---
+title: "Airtable Biotech"
+description: "Expert insights on how Airtable Biotech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Biotech Solution with Airtable
 #### Introduction
 In the biotech industry, mobile apps play a crucial role in streamlining workflows, managing data, and facilitating communication among teams. However, one of the significant challenges biotech companies face is tracking user behavior across different platforms and devices. Inconsistent user behavior tracking can lead to inaccurate insights, poor decision-making, and ultimately, hinder the progress of biotech research and development. In this blog post, we will explore how Airtable can help biotech companies overcome this challenge and achieve seamless user behavior tracking across cross-platform mobile apps.

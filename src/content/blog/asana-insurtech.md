@@ -1,3 +1,10 @@
+---
+title: "Asana Insurtech"
+description: "Expert insights on how Asana Insurtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inefficient Resource Allocation in InsurTech: How Asana Can Help
 The InsurTech industry has experienced significant growth in recent years, driven by the need for digital transformation and innovation in the insurance sector. As InsurTech companies continue to expand, they often face challenges in managing their distributed software engineering teams. One of the most common pain points is inefficient resource allocation, which can hinder productivity, delay project timelines, and increase costs. In this blog post, we will explore how Asana can help InsurTech companies optimize their resource allocation and streamline their software development processes.
 

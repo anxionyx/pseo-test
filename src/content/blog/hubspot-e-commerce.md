@@ -1,3 +1,10 @@
+---
+title: "Hubspot E Commerce"
+description: "Expert insights on how Hubspot E Commerce can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Bottlenecks in CI/CD Pipelines: A Guide for E-commerce Businesses
 As an e-commerce business, you understand the importance of delivering high-quality software quickly and efficiently. However, many organizations struggle with bottlenecks in their Continuous Integration/Continuous Deployment (CI/CD) pipelines, particularly when it comes to legacy testing frameworks. In this post, we'll explore the challenges associated with legacy testing frameworks and provide solutions to help you optimize your CI/CD pipeline.
 

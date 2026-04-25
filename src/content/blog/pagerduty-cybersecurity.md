@@ -1,3 +1,10 @@
+---
+title: "Pagerduty Cybersecurity"
+description: "Expert insights on how Pagerduty Cybersecurity can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Disconnected Customer Feedback Loops: A Cybersecurity Threat to Customer Support Workflows
 In today's fast-paced digital landscape, cybersecurity is a top priority for organizations of all sizes. As cyber threats continue to evolve and become more sophisticated, it's essential for companies to have a robust cybersecurity strategy in place to protect their customers' sensitive information. However, even with the best cybersecurity measures in place, companies can still fall victim to disconnected customer feedback loops in their customer support workflows. In this blog post, we'll explore the concept of disconnected customer feedback loops, their impact on cybersecurity, and how PagerDuty can help solve this problem.
 

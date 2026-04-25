@@ -1,3 +1,10 @@
+---
+title: "Splunk Real Estate Tech"
+description: "Expert insights on how Splunk Real Estate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Cross-Border Payroll Reconciliation with Splunk
 The real estate tech industry has witnessed tremendous growth in recent years, with companies expanding their operations globally. This expansion has led to an increase in cross-border payroll, resulting in complex financial transactions that require meticulous management. One of the significant challenges faced by real estate tech companies is the manual reconciliation of multi-currency cross-border payroll. In this blog post, we will explore how Splunk can help solve this problem, making payroll processing more efficient and reducing the risk of errors.
 

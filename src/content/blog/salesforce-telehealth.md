@@ -1,3 +1,10 @@
+---
+title: "Salesforce Telehealth"
+description: "Expert insights on how Salesforce Telehealth can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Challenge for Telehealth
 #### Introduction to the Problem
 The telehealth industry has experienced rapid growth in recent years, driven by the need for remote healthcare services. As a result, telehealth companies are expanding their distributed software engineering teams to develop and maintain complex healthcare platforms. However, one of the significant challenges these teams face is inefficient resource allocation, which can hinder the delivery of high-quality telehealth services. In this blog post, we will explore the issue of inefficient resource allocation in distributed software engineering teams and how Salesforce can help solve this problem.

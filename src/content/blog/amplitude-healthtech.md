@@ -1,3 +1,10 @@
+---
+title: "Amplitude Healthtech"
+description: "Expert insights on how Amplitude Healthtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant HealthTech Environments with Amplitude
 The HealthTech industry is witnessing unprecedented growth, driven by the increasing adoption of digital technologies to enhance patient care and outcomes. However, this growth also brings significant regulatory challenges, particularly when it comes to ensuring compliance with the General Data Protection Regulation (GDPR) in multi-tenant environments. In this blog post, we'll explore how Amplitude can help HealthTech companies navigate these complex compliance reporting requirements.
 

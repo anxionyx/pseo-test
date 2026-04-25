@@ -1,3 +1,10 @@
+---
+title: "New Relic E Commerce"
+description: "Expert insights on how New Relic E Commerce can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Disconnected Customer Feedback Loops: A Major Pain Point for E-commerce Businesses
 As an e-commerce business, providing excellent customer support is crucial for building trust, loyalty, and driving sales. However, many e-commerce companies struggle with disconnected customer feedback loops, which can lead to frustrated customers, negative reviews, and lost revenue. In this post, we'll explore the challenges of disconnected customer feedback loops in customer support workflows and how New Relic can help solve this problem.
 

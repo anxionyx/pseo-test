@@ -1,3 +1,10 @@
+---
+title: "Monday.Com Foodtech"
+description: "Expert insights on how Monday.Com Foodtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Challenge for FoodTech
 The FoodTech industry has witnessed a significant surge in recent years, with the rise of mobile apps for food delivery, meal kit planning, and restaurant management. However, as the industry continues to grow, one of the major challenges faced by FoodTech companies is inconsistent user behavior tracking in cross-platform mobile apps. In this blog post, we will explore the importance of user behavior tracking, the challenges of cross-platform tracking, and how Monday.com can help solve this problem.
 

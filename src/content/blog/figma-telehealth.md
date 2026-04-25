@@ -1,3 +1,10 @@
+---
+title: "Figma Telehealth"
+description: "Expert insights on how Figma Telehealth can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Breaking Down Data Silos in Telehealth: How Figma Can Help
 The telehealth industry has experienced rapid growth in recent years, with more healthcare providers adopting digital solutions to deliver patient care. However, one of the significant challenges facing telehealth organizations is the existence of data silos between legacy Customer Relationship Management (CRM) systems and modern marketing tools. In this blog post, we will explore how Figma can help break down these data silos and improve the overall efficiency of telehealth operations.
 

@@ -1,7 +1,8 @@
 ---
 title: "Epic Systems For Healthcare"
+description: "Expert insights on how Epic Systems For Healthcare can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Epic Systems For Healthcare"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Enhancing Healthcare Interoperability with Epic Systems

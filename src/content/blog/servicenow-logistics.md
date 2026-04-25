@@ -1,3 +1,10 @@
+---
+title: "Servicenow Logistics"
+description: "Expert insights on how Servicenow Logistics can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Logistics with ServiceNow: Overcoming Bottlenecks in CI/CD Pipelines
 In the fast-paced world of logistics, efficiency and speed are crucial for staying ahead of the competition. However, many logistics companies struggle with bottlenecks in their Continuous Integration/Continuous Deployment (CI/CD) pipelines, hindering their ability to deliver high-quality services quickly. One common culprit behind these bottlenecks is the use of legacy testing frameworks. In this blog post, we'll explore how ServiceNow can help logistics companies overcome these challenges and streamline their CI/CD pipelines.
 

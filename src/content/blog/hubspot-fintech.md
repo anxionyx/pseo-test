@@ -1,3 +1,10 @@
+---
+title: "Hubspot Fintech"
+description: "Expert insights on how Hubspot Fintech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Disconnected Customer Feedback Loops in Fintech Customer Support Workflows
 The fintech industry has experienced rapid growth in recent years, with new technologies and innovations emerging to improve financial services. However, with this growth comes the challenge of providing excellent customer support. One of the most significant hurdles fintech companies face is disconnected customer feedback loops in their support workflows. In this post, we'll explore the importance of connected customer feedback loops and provide strategies for fintech companies to solve this issue.
 

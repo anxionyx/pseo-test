@@ -1,3 +1,10 @@
+---
+title: "Pagerduty Real Estate Tech"
+description: "Expert insights on how Pagerduty Real Estate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving the Lack of Unified Audit Logs for Microservices Orchestration in Real Estate Tech
 The real estate technology (PropTech) industry has experienced significant growth in recent years, driven by the adoption of digital technologies to improve the way properties are bought, sold, and managed. As PropTech companies continue to innovate and expand their services, they often turn to microservices architecture to increase scalability, flexibility, and resilience. However, this shift towards microservices also introduces new challenges, particularly when it comes to monitoring and auditing these distributed systems. One of the critical issues faced by PropTech companies is the lack of unified audit logs for microservices orchestration.
 

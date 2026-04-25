@@ -1,3 +1,10 @@
+---
+title: "Intercom Biotech"
+description: "Expert insights on how Intercom Biotech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Biotech Payroll: Solving Manual Reconciliation of Multi-Currency Cross-Border Payments with Intercom
 The biotech industry is a global marketplace, with companies often operating in multiple countries and currencies. Managing payroll for a global workforce can be a complex and time-consuming task, particularly when it comes to reconciling multi-currency cross-border payments. In this blog post, we'll explore the challenges of manual reconciliation and how Intercom can help biotech companies streamline their payroll processes.
 

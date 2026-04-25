@@ -1,3 +1,10 @@
+---
+title: "Datadog Govtech"
+description: "Expert insights on how Datadog Govtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining GovTech Infrastructure: Unifying Visibility Across Hybrid Cloud Clusters with Datadog
 As government agencies continue to modernize and digitize their services, the complexity of their IT infrastructure has grown significantly. Many GovTech organizations now operate across a mix of on-premises data centers, private clouds, and public cloud services, creating hybrid cloud clusters. This shift towards hybrid environments, while beneficial for scalability and flexibility, introduces a critical challenge: fragmented infrastructure visibility. 
 

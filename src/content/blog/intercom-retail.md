@@ -1,3 +1,10 @@
+---
+title: "Intercom Retail"
+description: "Expert insights on how Intercom Retail can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Breaking Down Data Silos in Retail: How Intercom Can Help
 As a retailer, you're likely no stranger to the challenges of managing customer data across multiple platforms. From legacy CRM systems to modern marketing tools, it's not uncommon for customer information to become fragmented and difficult to access. This can lead to a breakdown in communication, missed sales opportunities, and a poor customer experience. In this post, we'll explore the problem of data silos in retail and how Intercom can help you break them down.
 

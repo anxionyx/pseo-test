@@ -1,3 +1,10 @@
+---
+title: "Monday.Com Edtech"
+description: "Expert insights on how Monday.Com Edtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Customer Support Workflows in EdTech: Solving Disconnected Feedback Loops with Monday.com
 The education technology (EdTech) industry has experienced rapid growth in recent years, with an increasing number of institutions and organizations adopting digital solutions to enhance the learning experience. However, as EdTech companies scale, they often encounter challenges in managing customer support workflows, particularly when it comes to collecting and acting on customer feedback. In this post, we'll explore the issue of disconnected customer feedback loops in EdTech customer support workflows and how Monday.com can help solve this problem.
 

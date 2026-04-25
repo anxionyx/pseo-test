@@ -1,3 +1,10 @@
+---
+title: "Airtable Manufacturing"
+description: "Expert insights on how Airtable Manufacturing can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Manufacturing Perspective
 ====================================================================================
 

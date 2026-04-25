@@ -1,3 +1,10 @@
+---
+title: "Figma Retail"
+description: "Expert insights on how Figma Retail can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Retailer's Dilemma
 As a retail business, having a strong online presence is crucial for success. With the rise of mobile commerce, retailers are investing heavily in developing cross-platform mobile apps to reach their customers. However, one of the significant challenges retailers face is inconsistent user behavior tracking across these platforms. In this blog post, we will explore how Figma can help retailers solve this problem and create a seamless user experience.
 

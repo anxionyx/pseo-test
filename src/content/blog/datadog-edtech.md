@@ -1,3 +1,10 @@
+---
+title: "Datadog Edtech"
+description: "Expert insights on how Datadog Edtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving High Latency in Real-Time Inventory Synchronization for EdTech with Datadog
 #### Introduction to Real-Time Inventory Synchronization in EdTech
 In the EdTech industry, real-time inventory synchronization is crucial for ensuring that educational institutions, schools, and universities can efficiently manage their resources, including digital content, textbooks, and other educational materials. High latency in inventory synchronization can lead to delays, inaccuracies, and ultimately, a poor learning experience for students. In this blog post, we will explore how Datadog can help EdTech companies solve the issue of high latency in real-time inventory synchronization.

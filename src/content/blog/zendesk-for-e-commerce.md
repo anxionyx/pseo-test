@@ -1,7 +1,8 @@
 ---
 title: "Zendesk For E Commerce"
+description: "Expert insights on how Zendesk For E Commerce can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Zendesk For E Commerce"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # How Zendesk Helps E-commerce Businesses Solve Repetitive Customer Support Inquiries

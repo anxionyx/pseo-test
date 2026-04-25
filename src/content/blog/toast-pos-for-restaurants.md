@@ -1,7 +1,8 @@
 ---
 title: "Toast Pos For Restaurants"
+description: "Expert insights on how Toast Pos For Restaurants can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Toast Pos For Restaurants"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Streamlining Inventory Management Across Multiple Locations with Toast POS

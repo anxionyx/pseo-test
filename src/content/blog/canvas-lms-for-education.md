@@ -1,7 +1,8 @@
 ---
 title: "Canvas Lms For Education"
+description: "Expert insights on how Canvas Lms For Education can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Canvas Lms For Education"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Enhancing Student Engagement in Asynchronous Learning with Canvas LMS

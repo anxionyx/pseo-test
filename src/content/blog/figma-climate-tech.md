@@ -1,3 +1,10 @@
+---
+title: "Figma Climate Tech"
+description: "Expert insights on how Figma Climate Tech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Environments with Figma
 #### Introduction to Climate Tech and GDPR Compliance
 The Climate Tech industry is rapidly growing, with a focus on developing innovative solutions to combat climate change. However, with the increasing use of digital technologies, Climate Tech companies must ensure they comply with stringent regulations such as the General Data Protection Regulation (GDPR). One of the significant challenges these companies face is complex compliance reporting in multi-tenant environments. In this blog post, we will explore how Figma can help simplify this process.

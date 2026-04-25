@@ -1,3 +1,10 @@
+---
+title: "Jira Logistics"
+description: "Expert insights on how Jira Logistics can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining Customer Support Workflows in Logistics with Jira
 In the logistics industry, customer satisfaction is crucial for building a loyal customer base and maintaining a competitive edge. However, many logistics companies struggle with disconnected customer feedback loops, which can lead to delayed issue resolution, poor customer experience, and ultimately, lost business. In this blog post, we'll explore how Jira can help logistics companies streamline their customer support workflows and close the gap in customer feedback loops.
 

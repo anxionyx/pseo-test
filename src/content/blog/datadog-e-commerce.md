@@ -1,3 +1,10 @@
+---
+title: "Datadog E Commerce"
+description: "Expert insights on how Datadog E Commerce can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters for E-commerce with Datadog
 As e-commerce businesses continue to grow and expand their online presence, they often find themselves dealing with increasingly complex IT infrastructures. The shift towards hybrid cloud clusters, which combines on-premises, cloud-based, and edge computing resources, has become a norm. However, this complexity can lead to fragmented infrastructure visibility, making it challenging for teams to monitor, manage, and optimize their systems. In this blog post, we'll explore how Datadog can help e-commerce companies overcome these challenges and achieve unified visibility across their hybrid cloud clusters.
 

@@ -1,3 +1,10 @@
+---
+title: "Hubspot Energy"
+description: "Expert insights on how Hubspot Energy can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps for the Energy Industry
 The energy industry has witnessed a significant shift towards mobile technology, with companies developing cross-platform mobile apps to engage with customers, provide services, and promote energy efficiency. However, one of the major challenges faced by energy companies is inconsistent user behavior tracking in these apps. In this blog post, we will explore the importance of user behavior tracking, the challenges of cross-platform mobile apps, and provide solutions to overcome these challenges using HubSpot.
 

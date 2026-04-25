@@ -1,3 +1,10 @@
+---
+title: "Salesforce Manufacturing"
+description: "Expert insights on how Salesforce Manufacturing can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in Manufacturing with Salesforce
 Manufacturing companies are under increasing pressure to optimize their operations, improve efficiency, and reduce costs. One significant challenge they face is managing fragmented infrastructure visibility across hybrid cloud clusters. This can lead to reduced productivity, increased downtime, and decreased customer satisfaction.
 

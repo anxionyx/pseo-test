@@ -1,3 +1,10 @@
+---
+title: "Splunk Energy"
+description: "Expert insights on how Splunk Energy can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Disconnected Customer Feedback Loops: A Major Pain Point in Energy Customer Support Workflows
 The energy industry is becoming increasingly competitive, with customers having more choices than ever before. As a result, energy companies must prioritize customer satisfaction to stay ahead of the competition. However, many energy companies struggle with disconnected customer feedback loops in their customer support workflows, leading to poor customer experiences and lost revenue.
 

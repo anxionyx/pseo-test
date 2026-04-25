@@ -1,7 +1,8 @@
 ---
 title: "Docusign For Real Estate"
+description: "Expert insights on how Docusign For Real Estate can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Docusign For Real Estate"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Simplify Real Estate Transactions with DocuSign

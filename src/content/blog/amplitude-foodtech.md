@@ -1,3 +1,10 @@
+---
+title: "Amplitude Foodtech"
+description: "Expert insights on how Amplitude Foodtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving the Lack of Unified Audit Logs for Microservices Orchestration in FoodTech
 #### Introduction to the Problem
 The FoodTech industry has experienced rapid growth in recent years, driven by the increasing demand for online food ordering and delivery services. As a result, FoodTech companies have had to scale their systems to handle the surge in traffic, often adopting microservices architecture to improve scalability and flexibility. However, this shift has introduced new challenges, particularly in regards to auditing and logging. In this post, we will explore the issue of lack of unified audit logs for microservices orchestration in FoodTech and how Amplitude can help solve this problem.

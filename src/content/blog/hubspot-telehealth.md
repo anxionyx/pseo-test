@@ -1,3 +1,10 @@
+---
+title: "Hubspot Telehealth"
+description: "Expert insights on how Hubspot Telehealth can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Solving Disconnected Customer Feedback Loops in Telehealth Customer Support Workflows
 #### Introduction to Telehealth and Customer Feedback
 The telehealth industry has experienced rapid growth in recent years, with the global market expected to reach $559.3 billion by 2027. As telehealth continues to expand, providing high-quality patient care and support is crucial for success. However, one of the significant challenges faced by telehealth providers is disconnected customer feedback loops in their customer support workflows. In this blog post, we will explore the importance of customer feedback in telehealth, the consequences of disconnected feedback loops, and provide solutions to bridge the gap.

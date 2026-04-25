@@ -1,3 +1,10 @@
+---
+title: "Salesforce Insurtech"
+description: "Expert insights on how Salesforce Insurtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining InsurTech with Salesforce: Overcoming CI/CD Bottlenecks
 In the rapidly evolving landscape of InsurTech, companies are constantly seeking ways to innovate, improve efficiency, and enhance customer experience. However, many InsurTech firms face significant challenges in their Continuous Integration/Continuous Deployment (CI/CD) pipelines due to outdated legacy testing frameworks. These bottlenecks can hinder the speed and reliability of software releases, ultimately impacting business competitiveness. This post explores how Salesforce can help InsurTech companies overcome these challenges, leveraging its powerful suite of tools and services to streamline CI/CD processes.
 

@@ -1,3 +1,10 @@
+---
+title: "Monday.Com Healthtech"
+description: "Expert insights on how Monday.Com Healthtech can streamline your professional workflow."
+pubDate: 2026-04-25
+heroImage: "/blog-placeholder-about.jpg"
+---
+
 ### Streamlining HealthTech CI/CD Pipelines with Monday.com: Overcoming Legacy Testing Framework Bottlenecks
 The HealthTech industry is at the forefront of innovation, with technological advancements transforming the way healthcare is delivered. However, the complexity of healthcare systems and the need for rigorous testing and compliance can create bottlenecks in Continuous Integration/Continuous Deployment (CI/CD) pipelines. One significant obstacle is the use of legacy testing frameworks, which can hinder the speed and efficiency of software development and deployment. In this blog post, we will explore how Monday.com can help HealthTech organizations overcome these bottlenecks and streamline their CI/CD pipelines.
 

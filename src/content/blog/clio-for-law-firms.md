@@ -1,7 +1,8 @@
 ---
 title: "Clio For Law Firms"
+description: "Expert insights on how Clio For Law Firms can streamline your professional workflow."
 pubDate: 2026-04-25
-description: "SEO post about Clio For Law Firms"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 # Accurate Time Tracking and Automated Billing: How Clio Helps Law Firms
