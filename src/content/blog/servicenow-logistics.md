@@ -2,7 +2,7 @@
 title: "Servicenow Logistics"
 description: "How Servicenow Logistics helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/servicenow,logistics/all"
+heroImage: "https://loremflickr.com/800/600/logistics?lock=94"
 ---
 
 ### Streamlining Logistics with ServiceNow: Overcoming Bottlenecks in CI/CD Pipelines

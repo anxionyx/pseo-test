@@ -2,7 +2,7 @@
 title: "Servicenow Energy"
 description: "How Servicenow Energy helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/servicenow,energy/all"
+heroImage: "https://loremflickr.com/800/600/energy?lock=93"
 ---
 
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Challenge for Energy Companies

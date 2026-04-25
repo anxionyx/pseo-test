@@ -2,7 +2,7 @@
 title: "Figma Legaltech"
 description: "How Figma Legaltech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/figma,legaltech/all"
+heroImage: "https://loremflickr.com/800/600/legaltech?lock=35"
 ---
 
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A LegalTech Perspective

@@ -2,7 +2,7 @@
 title: "Okta Telehealth"
 description: "How Okta Telehealth helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/okta,telehealth/all"
+heroImage: "https://loremflickr.com/800/600/telehealth?lock=82"
 ---
 
 ### Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps for Telehealth with Okta

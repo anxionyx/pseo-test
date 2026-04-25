@@ -2,7 +2,7 @@
 title: "Canvas Lms For Education"
 description: "How Canvas Lms For Education helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/canvas,lms,for,education/all"
+heroImage: "https://loremflickr.com/800/600/education?lock=15"
 ---
 
 # Enhancing Student Engagement in Asynchronous Learning with Canvas LMS

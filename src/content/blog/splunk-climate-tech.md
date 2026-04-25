@@ -2,7 +2,7 @@
 title: "Splunk Climate Tech"
 description: "How Splunk Climate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/splunk,climate,tech/all"
+heroImage: "https://loremflickr.com/800/600/climate,tech?lock=104"
 ---
 
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in Climate Tech

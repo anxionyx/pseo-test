@@ -2,7 +2,7 @@
 title: "Snowflake Biotech"
 description: "How Snowflake Biotech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/snowflake,biotech/all"
+heroImage: "https://loremflickr.com/800/600/biotech?lock=96"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: How Snowflake Can Revolutionize Biotech Data Management

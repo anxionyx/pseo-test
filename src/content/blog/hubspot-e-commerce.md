@@ -2,7 +2,7 @@
 title: "Hubspot E Commerce"
 description: "How Hubspot E Commerce helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/hubspot,e,commerce/all"
+heroImage: "https://loremflickr.com/800/600/e,commerce?lock=41"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: A Guide for E-commerce Businesses

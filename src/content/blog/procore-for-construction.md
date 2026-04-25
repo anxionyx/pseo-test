@@ -2,7 +2,7 @@
 title: "Procore For Construction"
 description: "How Procore For Construction helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/procore,for,construction/all"
+heroImage: "https://loremflickr.com/800/600/construction?lock=85"
 ---
 
 # Streamlining Construction Operations: How Procore Enhances Real-Time Updates

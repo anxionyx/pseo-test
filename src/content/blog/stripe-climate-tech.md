@@ -2,7 +2,7 @@
 title: "[Stripe](https://stripe.com/referral/your-id) Climate Tech"
 description: "How [Stripe](https://stripe.com/referral/your-id) Climate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/stripe,climate,tech/all"
+heroImage: "https://loremflickr.com/800/600/climate,tech?lock=108"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in Climate Tech Customer Support Workflows with Stripe

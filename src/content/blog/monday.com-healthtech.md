@@ -2,7 +2,7 @@
 title: "Monday.Com Healthtech"
 description: "How Monday.Com Healthtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/monday.com,healthtech/all"
+heroImage: "https://loremflickr.com/800/600/healthtech?lock=65"
 ---
 
 ### Streamlining HealthTech CI/CD Pipelines with Monday.com: Overcoming Legacy Testing Framework Bottlenecks

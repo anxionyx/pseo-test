@@ -2,7 +2,7 @@
 title: "Splunk Real Estate Tech"
 description: "How Splunk Real Estate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/splunk,real,estate,tech/all"
+heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=107"
 ---
 
 ### Streamlining Cross-Border Payroll Reconciliation with Splunk

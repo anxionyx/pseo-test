@@ -2,7 +2,7 @@
 title: "[Asana](https://asana.com/?utm_source=your-id) Climate Tech"
 description: "How [Asana](https://asana.com/?utm_source=your-id) Climate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/asana,climate,tech/all"
+heroImage: "https://loremflickr.com/800/600/climate,tech?lock=8"
 ---
 
 ### Simplifying Climate Tech: Unifying Audit Logs for Microservices Orchestration with Asana

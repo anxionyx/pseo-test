@@ -2,7 +2,7 @@
 title: "[Airtable](https://airtable.com/invite/r/your-id) Edtech"
 description: "How [Airtable](https://airtable.com/invite/r/your-id) Edtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/airtable,edtech/all"
+heroImage: "https://loremflickr.com/800/600/edtech?lock=1"
 ---
 
 ### Simplifying Cross-Border Payroll with Airtable: A Solution for EdTech

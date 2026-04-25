@@ -2,7 +2,7 @@
 title: "[Airtable](https://airtable.com/invite/r/your-id) Biotech"
 description: "How [Airtable](https://airtable.com/invite/r/your-id) Biotech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/airtable,biotech/all"
+heroImage: "https://loremflickr.com/800/600/biotech?lock=0"
 ---
 
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Biotech Solution with Airtable

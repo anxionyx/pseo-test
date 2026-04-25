@@ -2,7 +2,7 @@
 title: "New Relic E Commerce"
 description: "How New Relic E Commerce helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/new,relic,e,commerce/all"
+heroImage: "https://loremflickr.com/800/600/relic,e,commerce?lock=66"
 ---
 
 ### Disconnected Customer Feedback Loops: A Major Pain Point for E-commerce Businesses

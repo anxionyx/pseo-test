@@ -2,7 +2,7 @@
 title: "Deel Energy"
 description: "How Deel Energy helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/deel,energy/all"
+heroImage: "https://loremflickr.com/800/600/energy?lock=25"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for the Energy Sector with Deel

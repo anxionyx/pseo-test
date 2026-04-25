@@ -2,7 +2,7 @@
 title: "Salesforce Telehealth"
 description: "How Salesforce Telehealth helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/salesforce,telehealth/all"
+heroImage: "https://loremflickr.com/800/600/telehealth?lock=90"
 ---
 
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Challenge for Telehealth

@@ -2,7 +2,7 @@
 title: "Hubspot Gaming"
 description: "How Hubspot Gaming helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/hubspot,gaming/all"
+heroImage: "https://loremflickr.com/800/600/gaming?lock=45"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: A Guide for Gaming Companies

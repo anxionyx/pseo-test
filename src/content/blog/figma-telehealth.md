@@ -2,7 +2,7 @@
 title: "Figma Telehealth"
 description: "How Figma Telehealth helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/figma,telehealth/all"
+heroImage: "https://loremflickr.com/800/600/telehealth?lock=37"
 ---
 
 ### Breaking Down Data Silos in Telehealth: How Figma Can Help

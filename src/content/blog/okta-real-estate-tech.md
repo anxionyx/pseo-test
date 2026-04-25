@@ -2,7 +2,7 @@
 title: "Okta Real Estate Tech"
 description: "How Okta Real Estate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/okta,real,estate,tech/all"
+heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=80"
 ---
 
 ### Breaking Down Data Silos in Real Estate Tech: How Okta Can Help

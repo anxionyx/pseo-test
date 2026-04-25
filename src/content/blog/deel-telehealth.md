@@ -2,7 +2,7 @@
 title: "Deel Telehealth"
 description: "How Deel Telehealth helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/deel,telehealth/all"
+heroImage: "https://loremflickr.com/800/600/telehealth?lock=28"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Telehealth with Deel

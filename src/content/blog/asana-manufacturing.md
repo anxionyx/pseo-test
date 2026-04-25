@@ -2,7 +2,7 @@
 title: "[Asana](https://asana.com/?utm_source=your-id) Manufacturing"
 description: "How [Asana](https://asana.com/?utm_source=your-id) Manufacturing helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/asana,manufacturing/all"
+heroImage: "https://loremflickr.com/800/600/manufacturing?lock=13"
 ---
 
 ### Streamlining Manufacturing Operations with Asana: Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps

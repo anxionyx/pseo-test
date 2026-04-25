@@ -2,7 +2,7 @@
 title: "[Asana](https://asana.com/?utm_source=your-id) Energy"
 description: "How [Asana](https://asana.com/?utm_source=your-id) Energy helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/asana,energy/all"
+heroImage: "https://loremflickr.com/800/600/energy?lock=10"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Energy Companies with Asana

@@ -2,7 +2,7 @@
 title: "Salesforce Manufacturing"
 description: "How Salesforce Manufacturing helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/salesforce,manufacturing/all"
+heroImage: "https://loremflickr.com/800/600/manufacturing?lock=88"
 ---
 
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in Manufacturing with Salesforce

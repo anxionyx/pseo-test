@@ -2,7 +2,7 @@
 title: "New Relic Logistics"
 description: "How New Relic Logistics helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/new,relic,logistics/all"
+heroImage: "https://loremflickr.com/800/600/relic,logistics?lock=67"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Logistics Environments with New Relic

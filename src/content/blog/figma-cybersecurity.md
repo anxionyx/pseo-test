@@ -2,7 +2,7 @@
 title: "Figma Cybersecurity"
 description: "How Figma Cybersecurity helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/figma,cybersecurity/all"
+heroImage: "https://loremflickr.com/800/600/cybersecurity?lock=32"
 ---
 
 ### Streamlining Cybersecurity: Solving Manual Reconciliation of Multi-Currency Cross-Border Payroll with Figma

@@ -2,7 +2,7 @@
 title: "[Jira](https://atlassian.com/software/jira/your-id) Logistics"
 description: "How [Jira](https://atlassian.com/software/jira/your-id) Logistics helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/jira,logistics/all"
+heroImage: "https://loremflickr.com/800/600/logistics?lock=60"
 ---
 
 ### Streamlining Customer Support Workflows in Logistics with Jira

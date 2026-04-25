@@ -2,7 +2,7 @@
 title: "[Asana](https://asana.com/?utm_source=your-id) Hr Tech"
 description: "How [Asana](https://asana.com/?utm_source=your-id) Hr Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/asana,hr,tech/all"
+heroImage: "https://loremflickr.com/800/600/hr,tech?lock=11"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Environments with Asana

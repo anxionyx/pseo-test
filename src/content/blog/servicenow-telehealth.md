@@ -2,7 +2,7 @@
 title: "Servicenow Telehealth"
 description: "How Servicenow Telehealth helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/servicenow,telehealth/all"
+heroImage: "https://loremflickr.com/800/600/telehealth?lock=95"
 ---
 
 ### Inconsistent User Behavior Tracking in Telehealth Mobile Apps: A Solution with ServiceNow

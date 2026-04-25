@@ -2,7 +2,7 @@
 title: "Okta Edtech"
 description: "How Okta Edtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/okta,edtech/all"
+heroImage: "https://loremflickr.com/800/600/edtech?lock=75"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for EdTech with Okta

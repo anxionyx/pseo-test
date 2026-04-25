@@ -2,7 +2,7 @@
 title: "Snowflake Energy"
 description: "How Snowflake Energy helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/snowflake,energy/all"
+heroImage: "https://loremflickr.com/800/600/energy?lock=99"
 ---
 
 ### Unifying Audit Logs for Energy Microservices Orchestration with Snowflake

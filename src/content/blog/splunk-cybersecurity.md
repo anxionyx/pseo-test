@@ -2,7 +2,7 @@
 title: "Splunk Cybersecurity"
 description: "How Splunk Cybersecurity helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/splunk,cybersecurity/all"
+heroImage: "https://loremflickr.com/800/600/cybersecurity?lock=105"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: How Splunk Can Help Overcome Legacy Testing Framework Limitations

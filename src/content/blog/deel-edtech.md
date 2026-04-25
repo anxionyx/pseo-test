@@ -2,7 +2,7 @@
 title: "Deel Edtech"
 description: "How Deel Edtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/deel,edtech/all"
+heroImage: "https://loremflickr.com/800/600/edtech?lock=24"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in EdTech Multi-Tenant Environments with Deel

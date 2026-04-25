@@ -2,7 +2,7 @@
 title: "Figma Retail"
 description: "How Figma Retail helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/figma,retail/all"
+heroImage: "https://loremflickr.com/800/600/retail?lock=36"
 ---
 
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Retailer's Dilemma

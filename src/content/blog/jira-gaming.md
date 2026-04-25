@@ -2,7 +2,7 @@
 title: "[Jira](https://atlassian.com/software/jira/your-id) Gaming"
 description: "How [Jira](https://atlassian.com/software/jira/your-id) Gaming helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/jira,gaming/all"
+heroImage: "https://loremflickr.com/800/600/gaming?lock=58"
 ---
 
 ### Streamlining Multi-Currency Cross-Border Payroll with Jira: A Game-Changer for the Gaming Industry

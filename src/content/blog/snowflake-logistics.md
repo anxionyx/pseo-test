@@ -2,7 +2,7 @@
 title: "Snowflake Logistics"
 description: "How Snowflake Logistics helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/snowflake,logistics/all"
+heroImage: "https://loremflickr.com/800/600/logistics?lock=102"
 ---
 
 ### Streamlining Logistics: Solving Manual Reconciliation of Multi-Currency Cross-Border Payroll with Snowflake

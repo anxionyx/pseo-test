@@ -2,7 +2,7 @@
 title: "Intercom Hr Tech"
 description: "How Intercom Hr Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/intercom,hr,tech/all"
+heroImage: "https://loremflickr.com/800/600/hr,tech?lock=51"
 ---
 
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Challenge for HR Tech

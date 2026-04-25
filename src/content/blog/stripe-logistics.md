@@ -2,7 +2,7 @@
 title: "[Stripe](https://stripe.com/referral/your-id) Logistics"
 description: "How [Stripe](https://stripe.com/referral/your-id) Logistics helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/stripe,logistics/all"
+heroImage: "https://loremflickr.com/800/600/logistics?lock=113"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Logistics Environments with Stripe

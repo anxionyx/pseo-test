@@ -2,7 +2,7 @@
 title: "Datadog E Commerce"
 description: "How Datadog E Commerce helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/datadog,e,commerce/all"
+heroImage: "https://loremflickr.com/800/600/e,commerce?lock=18"
 ---
 
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters for E-commerce with Datadog

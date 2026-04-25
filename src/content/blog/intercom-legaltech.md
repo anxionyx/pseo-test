@@ -2,7 +2,7 @@
 title: "Intercom Legaltech"
 description: "How Intercom Legaltech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/intercom,legaltech/all"
+heroImage: "https://loremflickr.com/800/600/legaltech?lock=52"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for LegalTech

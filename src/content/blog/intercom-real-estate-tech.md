@@ -2,7 +2,7 @@
 title: "Intercom Real Estate Tech"
 description: "How Intercom Real Estate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/intercom,real,estate,tech/all"
+heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=53"
 ---
 
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Challenge for Real Estate Tech

@@ -2,7 +2,7 @@
 title: "Epic Systems For Healthcare"
 description: "How Epic Systems For Healthcare helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/epic,systems,for,healthcare/all"
+heroImage: "https://loremflickr.com/800/600/healthcare?lock=30"
 ---
 
 # Enhancing Healthcare Interoperability with Epic Systems

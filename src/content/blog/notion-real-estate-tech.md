@@ -2,7 +2,7 @@
 title: "Notion Real Estate Tech"
 description: "How Notion Real Estate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/notion,real,estate,tech/all"
+heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=73"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Real Estate Tech with Notion

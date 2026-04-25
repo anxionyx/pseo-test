@@ -2,7 +2,7 @@
 title: "Workday Adtech"
 description: "How Workday Adtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/workday,adtech/all"
+heroImage: "https://loremflickr.com/800/600/adtech?lock=115"
 ---
 
 ### Inefficient Resource Allocation in AdTech: How Workday Can Help

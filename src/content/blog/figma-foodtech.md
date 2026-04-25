@@ -2,7 +2,7 @@
 title: "Figma Foodtech"
 description: "How Figma Foodtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/figma,foodtech/all"
+heroImage: "https://loremflickr.com/800/600/foodtech?lock=33"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant FoodTech Environments with Figma

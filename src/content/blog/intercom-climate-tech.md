@@ -2,7 +2,7 @@
 title: "Intercom Climate Tech"
 description: "How Intercom Climate Tech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/intercom,climate,tech/all"
+heroImage: "https://loremflickr.com/800/600/climate,tech?lock=50"
 ---
 
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in Climate Tech

@@ -2,7 +2,7 @@
 title: "Okta Healthtech"
 description: "How Okta Healthtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/okta,healthtech/all"
+heroImage: "https://loremflickr.com/800/600/healthtech?lock=77"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in HealthTech Customer Support Workflows with Okta

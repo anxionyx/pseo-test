@@ -2,7 +2,7 @@
 title: "Hubspot Fintech"
 description: "How Hubspot Fintech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/hubspot,fintech/all"
+heroImage: "https://loremflickr.com/800/600/fintech?lock=43"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in Fintech Customer Support Workflows

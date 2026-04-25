@@ -2,7 +2,7 @@
 title: "[Asana](https://asana.com/?utm_source=your-id) Cybersecurity"
 description: "How [Asana](https://asana.com/?utm_source=your-id) Cybersecurity helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/asana,cybersecurity/all"
+heroImage: "https://loremflickr.com/800/600/cybersecurity?lock=9"
 ---
 
 ### Streamlining Cybersecurity: Simplifying Multi-Currency Cross-Border Payroll Reconciliation with Asana

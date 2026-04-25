@@ -2,7 +2,7 @@
 title: "Notion Govtech"
 description: "How Notion Govtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/notion,govtech/all"
+heroImage: "https://loremflickr.com/800/600/govtech?lock=70"
 ---
 
 # Solving the Lack of Unified Audit Logs for Microservices Orchestration in GovTech with Notion

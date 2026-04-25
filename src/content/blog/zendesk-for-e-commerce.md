@@ -2,7 +2,7 @@
 title: "Zendesk For E Commerce"
 description: "How Zendesk For E Commerce helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/zendesk,for,e,commerce/all"
+heroImage: "https://loremflickr.com/800/600/e,commerce?lock=118"
 ---
 
 # How Zendesk Helps E-commerce Businesses Solve Repetitive Customer Support Inquiries

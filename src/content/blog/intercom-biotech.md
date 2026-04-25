@@ -2,7 +2,7 @@
 title: "Intercom Biotech"
 description: "How Intercom Biotech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/intercom,biotech/all"
+heroImage: "https://loremflickr.com/800/600/biotech?lock=49"
 ---
 
 ### Streamlining Biotech Payroll: Solving Manual Reconciliation of Multi-Currency Cross-Border Payments with Intercom

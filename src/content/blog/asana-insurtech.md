@@ -2,7 +2,7 @@
 title: "[Asana](https://asana.com/?utm_source=your-id) Insurtech"
 description: "How [Asana](https://asana.com/?utm_source=your-id) Insurtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/asana,insurtech/all"
+heroImage: "https://loremflickr.com/800/600/insurtech?lock=12"
 ---
 
 ### Inefficient Resource Allocation in InsurTech: How Asana Can Help

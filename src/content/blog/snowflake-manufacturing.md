@@ -2,7 +2,7 @@
 title: "Snowflake Manufacturing"
 description: "How Snowflake Manufacturing helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/snowflake,manufacturing/all"
+heroImage: "https://loremflickr.com/800/600/manufacturing?lock=103"
 ---
 
 ### Solving the Lack of Unified Audit Logs for Microservices Orchestration in Manufacturing with Snowflake

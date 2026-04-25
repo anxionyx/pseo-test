@@ -2,7 +2,7 @@
 title: "Snowflake Healthtech"
 description: "How Snowflake Healthtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/snowflake,healthtech/all"
+heroImage: "https://loremflickr.com/800/600/healthtech?lock=101"
 ---
 
 ### Unlocking Efficient CI/CD Pipelines in HealthTech with Snowflake

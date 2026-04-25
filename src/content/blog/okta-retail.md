@@ -2,7 +2,7 @@
 title: "Okta Retail"
 description: "How Okta Retail helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/okta,retail/all"
+heroImage: "https://loremflickr.com/800/600/retail?lock=81"
 ---
 
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Retail Perspective

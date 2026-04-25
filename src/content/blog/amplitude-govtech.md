@@ -2,7 +2,7 @@
 title: "Amplitude Govtech"
 description: "How Amplitude Govtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/amplitude,govtech/all"
+heroImage: "https://loremflickr.com/800/600/govtech?lock=6"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: A GovTech Perspective

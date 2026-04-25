@@ -2,7 +2,7 @@
 title: "Monday.Com Cybersecurity"
 description: "How Monday.Com Cybersecurity helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/monday.com,cybersecurity/all"
+heroImage: "https://loremflickr.com/800/600/cybersecurity?lock=61"
 ---
 
 ### Streamlining Customer Support Workflows: Solving Disconnected Customer Feedback Loops with Monday.com

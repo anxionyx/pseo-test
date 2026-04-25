@@ -2,7 +2,7 @@
 title: "Datadog Govtech"
 description: "How Datadog Govtech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/datadog,govtech/all"
+heroImage: "https://loremflickr.com/800/600/govtech?lock=21"
 ---
 
 ### Streamlining GovTech Infrastructure: Unifying Visibility Across Hybrid Cloud Clusters with Datadog

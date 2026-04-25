@@ -2,7 +2,7 @@
 title: "Okta Manufacturing"
 description: "How Okta Manufacturing helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/okta,manufacturing/all"
+heroImage: "https://loremflickr.com/800/600/manufacturing?lock=79"
 ---
 
 ### Streamlining CI/CD Pipelines in Manufacturing: Overcoming Legacy Testing Framework Bottlenecks with Okta

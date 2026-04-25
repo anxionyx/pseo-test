@@ -2,7 +2,7 @@
 title: "Intercom Retail"
 description: "How Intercom Retail helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/intercom,retail/all"
+heroImage: "https://loremflickr.com/800/600/retail?lock=54"
 ---
 
 ### Breaking Down Data Silos in Retail: How Intercom Can Help

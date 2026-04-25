@@ -2,7 +2,7 @@
 title: "Hubspot Telehealth"
 description: "How Hubspot Telehealth helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/hubspot,telehealth/all"
+heroImage: "https://loremflickr.com/800/600/telehealth?lock=48"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in Telehealth Customer Support Workflows

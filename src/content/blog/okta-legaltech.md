@@ -2,7 +2,7 @@
 title: "Okta Legaltech"
 description: "How Okta Legaltech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/okta,legaltech/all"
+heroImage: "https://loremflickr.com/800/600/legaltech?lock=78"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Environments with Okta

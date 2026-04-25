@@ -2,7 +2,7 @@
 title: "Notion Fintech"
 description: "How Notion Fintech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/notion,fintech/all"
+heroImage: "https://loremflickr.com/800/600/fintech?lock=69"
 ---
 
 ### Breaking Down Data Silos in Fintech: How Notion Can Integrate Legacy CRM and Modern Marketing Tools

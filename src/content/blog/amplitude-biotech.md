@@ -2,7 +2,7 @@
 title: "Amplitude Biotech"
 description: "How Amplitude Biotech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://loremflickr.com/800/600/amplitude,biotech/all"
+heroImage: "https://loremflickr.com/800/600/biotech?lock=4"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Biotech Environments with Amplitude
