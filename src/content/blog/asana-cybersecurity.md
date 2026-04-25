@@ -1,8 +1,8 @@
 ---
 title: "Asana Cybersecurity"
-description: "Expert insights on how Asana Cybersecurity can streamline your professional workflow."
-pubDate: 2026-04-25
-heroImage: "/blog-placeholder-about.jpg"
+description: "How Asana Cybersecurity helps professionals solve industry-specific challenges."
+pubDate: "2026-04-25"
+heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
 ---
 
 ### Streamlining Cybersecurity: Simplifying Multi-Currency Cross-Border Payroll Reconciliation with Asana

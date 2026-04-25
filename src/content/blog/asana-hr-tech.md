@@ -1,8 +1,8 @@
 ---
 title: "Asana Hr Tech"
-description: "Expert insights on how Asana Hr Tech can streamline your professional workflow."
-pubDate: 2026-04-25
-heroImage: "/blog-placeholder-about.jpg"
+description: "How Asana Hr Tech helps professionals solve industry-specific challenges."
+pubDate: "2026-04-25"
+heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Environments with Asana

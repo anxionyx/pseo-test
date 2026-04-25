@@ -1,8 +1,8 @@
 ---
 title: "Splunk Cybersecurity"
-description: "Expert insights on how Splunk Cybersecurity can streamline your professional workflow."
-pubDate: 2026-04-25
-heroImage: "/blog-placeholder-about.jpg"
+description: "How Splunk Cybersecurity helps professionals solve industry-specific challenges."
+pubDate: "2026-04-25"
+heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: How Splunk Can Help Overcome Legacy Testing Framework Limitations
