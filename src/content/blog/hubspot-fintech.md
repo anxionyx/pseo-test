@@ -2,7 +2,7 @@
 title: "Hubspot Fintech"
 description: "How Hubspot Fintech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+heroImage: "https://loremflickr.com/800/600/hubspot,fintech/all"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in Fintech Customer Support Workflows
@@ -29,7 +29,7 @@ So, how can fintech companies solve the problem of disconnected customer feedbac
 #### Tools for Solving Disconnected Customer Feedback Loops
 There are many tools available to help fintech companies solve disconnected customer feedback loops. Some of these tools include:
 
-* **HubSpot's Customer Feedback Tool**: HubSpot's customer feedback tool allows companies to collect, analyze, and act upon customer feedback. It also includes features such as surveys, feedback forms, and social media monitoring.
+* **[HubSpot](https://hubspot.com/referral/your-id)'s Customer Feedback Tool**: [HubSpot](https://hubspot.com/referral/your-id)'s customer feedback tool allows companies to collect, analyze, and act upon customer feedback. It also includes features such as surveys, feedback forms, and social media monitoring.
 * **Medallia's Customer Experience Platform**: Medallia's customer experience platform provides companies with the tools they need to collect, analyze, and act upon customer feedback. It also includes features such as data analytics and AI-powered insights.
 * **AskNicely's Customer Feedback Platform**: AskNicely's customer feedback platform provides companies with the tools they need to collect, analyze, and act upon customer feedback. It also includes features such as surveys, feedback forms, and social media monitoring.
 

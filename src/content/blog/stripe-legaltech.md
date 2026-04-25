@@ -1,8 +1,8 @@
 ---
-title: "Stripe Legaltech"
-description: "How Stripe Legaltech helps professionals solve industry-specific challenges."
+title: "[Stripe](https://stripe.com/referral/your-id) Legaltech"
+description: "How [Stripe](https://stripe.com/referral/your-id) Legaltech helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+heroImage: "https://loremflickr.com/800/600/stripe,legaltech/all"
 ---
 
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A LegalTech Solution with Stripe

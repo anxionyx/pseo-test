@@ -2,7 +2,7 @@
 title: "Hubspot Telehealth"
 description: "How Hubspot Telehealth helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+heroImage: "https://loremflickr.com/800/600/hubspot,telehealth/all"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in Telehealth Customer Support Workflows
@@ -36,6 +36,6 @@ To ensure that customer feedback is properly integrated into the support workflo
 Disconnected customer feedback loops can have severe consequences on the quality of care and patient satisfaction in telehealth. By implementing a unified feedback system, using automation and AI-powered tools, establishing a closed-loop feedback process, and providing ongoing training and education, telehealth providers can bridge the gap and improve the patient experience. Remember to follow best practices, such as setting clear goals and objectives, using data-driven decision making, fostering a culture of continuous improvement, and leveraging technology to enhance the patient experience. By doing so, telehealth providers can deliver high-quality patient care and support, driving success and growth in the industry.
 
 #### Recommended Tools and Resources
-* **HubSpot Service Hub**: A comprehensive customer service platform that helps teams provide personalized support and resolve issues efficiently.
-* **HubSpot Feedback Tool**: A tool that allows teams to collect and analyze customer feedback, providing actionable insights to drive improvement.
+* **[HubSpot](https://hubspot.com/referral/your-id) Service Hub**: A comprehensive customer service platform that helps teams provide personalized support and resolve issues efficiently.
+* **[HubSpot](https://hubspot.com/referral/your-id) Feedback Tool**: A tool that allows teams to collect and analyze customer feedback, providing actionable insights to drive improvement.
 * **American Telemedicine Association**: A resource that provides guidance and best practices for telehealth providers, including information on customer feedback and support workflows.

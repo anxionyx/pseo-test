@@ -2,7 +2,7 @@
 title: "Hubspot Gaming"
 description: "How Hubspot Gaming helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+heroImage: "https://loremflickr.com/800/600/hubspot,gaming/all"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: A Guide for Gaming Companies
@@ -54,4 +54,4 @@ Bottlenecks in CI/CD pipelines can be a major obstacle for gaming companies, but
 - Revenue 
 - Reputation 
 
-Note: This blog post is written in Markdown and contains 600 words, making it suitable for a HubSpot blog post. The post includes relevant keywords for search engine optimization (SEO) and provides a comprehensive guide to solving bottlenecks in CI/CD pipelines for gaming companies.
+Note: This blog post is written in Markdown and contains 600 words, making it suitable for a [HubSpot](https://hubspot.com/referral/your-id) blog post. The post includes relevant keywords for search engine optimization (SEO) and provides a comprehensive guide to solving bottlenecks in CI/CD pipelines for gaming companies.

@@ -1,8 +1,8 @@
 ---
-title: "Jira Cybersecurity"
-description: "How Jira Cybersecurity helps professionals solve industry-specific challenges."
+title: "[Jira](https://atlassian.com/software/jira/your-id) Cybersecurity"
+description: "How [Jira](https://atlassian.com/software/jira/your-id) Cybersecurity helps professionals solve industry-specific challenges."
 pubDate: "2026-04-25"
-heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+heroImage: "https://loremflickr.com/800/600/jira,cybersecurity/all"
 ---
 
 ### Streamlining Cybersecurity with Jira: Automating Manual Reconciliation of Multi-Currency Cross-Border Payroll
