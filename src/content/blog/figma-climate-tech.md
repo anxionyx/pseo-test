@@ -1,8 +1,10 @@
 ---
-title: "Figma Climate Tech"
-description: "How Figma Climate Tech helps professionals solve industry-specific challenges."
+title: "Figma for Climate Tech"
+description: "Discover how Figma helps Climate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/climate,tech?lock=31"
+tool: "Figma"
+industry: "Climate Tech"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Environments with Figma

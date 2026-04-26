@@ -1,8 +1,10 @@
 ---
-title: "Datadog E Commerce"
-description: "How Datadog E Commerce helps professionals solve industry-specific challenges."
+title: "Datadog for E Commerce"
+description: "Discover how Datadog helps E Commerce professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/e,commerce?lock=18"
+tool: "Datadog"
+industry: "E Commerce"
 ---
 
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters for E-commerce with Datadog

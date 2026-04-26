@@ -1,8 +1,10 @@
 ---
-title: "Datadog Foodtech"
-description: "How Datadog Foodtech helps professionals solve industry-specific challenges."
+title: "Datadog for FoodTech"
+description: "Discover how Datadog helps FoodTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/foodtech?lock=20"
+tool: "Datadog"
+industry: "FoodTech"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for FoodTech with Datadog

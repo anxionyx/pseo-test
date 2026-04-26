@@ -1,8 +1,10 @@
 ---
-title: "Snowflake Edtech"
-description: "How Snowflake Edtech helps professionals solve industry-specific challenges."
+title: "Snowflake for EdTech"
+description: "Discover how Snowflake helps EdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/edtech?lock=98"
+tool: "Snowflake"
+industry: "EdTech"
 ---
 
 ### Revolutionizing EdTech: Simplifying Multi-Currency Cross-Border Payroll with Snowflake

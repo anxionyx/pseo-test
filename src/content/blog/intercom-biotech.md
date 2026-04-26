@@ -1,8 +1,10 @@
 ---
-title: "Intercom Biotech"
-description: "How Intercom Biotech helps professionals solve industry-specific challenges."
+title: "Intercom for BioTech"
+description: "Discover how Intercom helps BioTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/biotech?lock=49"
+tool: "Intercom"
+industry: "BioTech"
 ---
 
 ### Streamlining Biotech Payroll: Solving Manual Reconciliation of Multi-Currency Cross-Border Payments with Intercom

@@ -1,8 +1,10 @@
 ---
-title: "Deel Edtech"
-description: "How Deel Edtech helps professionals solve industry-specific challenges."
+title: "Deel for EdTech"
+description: "Discover how Deel helps EdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/edtech?lock=24"
+tool: "Deel"
+industry: "EdTech"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in EdTech Multi-Tenant Environments with Deel

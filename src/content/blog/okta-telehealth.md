@@ -1,8 +1,10 @@
 ---
-title: "Okta Telehealth"
-description: "How Okta Telehealth helps professionals solve industry-specific challenges."
+title: "Okta for Telehealth"
+description: "Discover how Okta helps Telehealth professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/telehealth?lock=82"
+tool: "Okta"
+industry: "Telehealth"
 ---
 
 ### Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps for Telehealth with Okta

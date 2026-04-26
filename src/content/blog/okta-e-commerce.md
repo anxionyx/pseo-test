@@ -1,8 +1,10 @@
 ---
-title: "Okta E Commerce"
-description: "How Okta E Commerce helps professionals solve industry-specific challenges."
+title: "Okta for E Commerce"
+description: "Discover how Okta helps E Commerce professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/e,commerce?lock=74"
+tool: "Okta"
+industry: "E Commerce"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for E-commerce with Okta

@@ -1,8 +1,10 @@
 ---
-title: "Okta Energy"
-description: "How Okta Energy helps professionals solve industry-specific challenges."
+title: "Okta for Energy"
+description: "Discover how Okta helps Energy professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/energy?lock=76"
+tool: "Okta"
+industry: "Energy"
 ---
 
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in the Energy Sector with Okta

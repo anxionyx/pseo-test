@@ -1,8 +1,10 @@
 ---
-title: "[Airtable](https://airtable.com/invite/r/your-id) Fintech"
-description: "How [Airtable](https://airtable.com/invite/r/your-id) Fintech helps professionals solve industry-specific challenges."
+title: "Airtable for FinTech"
+description: "Discover how Airtable helps FinTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/fintech?lock=2"
+tool: "Airtable"
+industry: "FinTech"
 ---
 
 ### Streamlining Fintech CI/CD Pipelines with Airtable: Overcoming Legacy Testing Framework Bottlenecks

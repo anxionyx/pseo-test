@@ -1,8 +1,10 @@
 ---
-title: "[Clio](https://clio.com/your-id) For Law Firms"
-description: "How [Clio](https://clio.com/your-id) For Law Firms helps professionals solve industry-specific challenges."
+title: "Clio for Law Firms"
+description: "Discover how Clio helps Law Firms professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/law,firms?lock=16"
+tool: "Clio"
+industry: "Law Firms"
 ---
 
 # Accurate Time Tracking and Automated Billing: How Clio Helps Law Firms

@@ -1,8 +1,10 @@
 ---
-title: "Snowflake Govtech"
-description: "How Snowflake Govtech helps professionals solve industry-specific challenges."
+title: "Snowflake for GovTech"
+description: "Discover how Snowflake helps GovTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/govtech?lock=100"
+tool: "Snowflake"
+industry: "GovTech"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in GovTech Customer Support Workflows with Snowflake

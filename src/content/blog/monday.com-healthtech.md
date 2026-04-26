@@ -1,8 +1,10 @@
 ---
-title: "Monday.Com Healthtech"
-description: "How Monday.Com Healthtech helps professionals solve industry-specific challenges."
+title: "Monday.com for HealthTech"
+description: "Discover how Monday.com helps HealthTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/healthtech?lock=65"
+tool: "Monday.com"
+industry: "HealthTech"
 ---
 
 ### Streamlining HealthTech CI/CD Pipelines with Monday.com: Overcoming Legacy Testing Framework Bottlenecks

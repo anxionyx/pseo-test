@@ -1,8 +1,10 @@
 ---
-title: "Servicenow Logistics"
-description: "How Servicenow Logistics helps professionals solve industry-specific challenges."
+title: "ServiceNow for Logistics"
+description: "Discover how ServiceNow helps Logistics professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/logistics?lock=94"
+tool: "ServiceNow"
+industry: "Logistics"
 ---
 
 ### Streamlining Logistics with ServiceNow: Overcoming Bottlenecks in CI/CD Pipelines

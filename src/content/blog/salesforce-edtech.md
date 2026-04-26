@@ -1,8 +1,10 @@
 ---
-title: "Salesforce Edtech"
-description: "How Salesforce Edtech helps professionals solve industry-specific challenges."
+title: "Salesforce for EdTech"
+description: "Discover how Salesforce helps EdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/edtech?lock=86"
+tool: "Salesforce"
+industry: "EdTech"
 ---
 
 ### Breaking Down Data Silos in EdTech: Unlocking the Power of Unified Customer Insights with Salesforce

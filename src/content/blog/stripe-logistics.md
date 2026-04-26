@@ -1,8 +1,10 @@
 ---
-title: "[Stripe](https://stripe.com/referral/your-id) Logistics"
-description: "How [Stripe](https://stripe.com/referral/your-id) Logistics helps professionals solve industry-specific challenges."
+title: "Stripe for Logistics"
+description: "Discover how Stripe helps Logistics professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/logistics?lock=113"
+tool: "Stripe"
+industry: "Logistics"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Logistics Environments with Stripe

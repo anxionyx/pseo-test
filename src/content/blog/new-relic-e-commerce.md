@@ -1,8 +1,10 @@
 ---
-title: "New Relic E Commerce"
-description: "How New Relic E Commerce helps professionals solve industry-specific challenges."
+title: "New Relic for E Commerce"
+description: "Discover how New Relic helps E Commerce professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/relic,e,commerce?lock=66"
+tool: "New Relic"
+industry: "E Commerce"
 ---
 
 ### Disconnected Customer Feedback Loops: A Major Pain Point for E-commerce Businesses

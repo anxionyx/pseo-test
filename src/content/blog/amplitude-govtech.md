@@ -1,8 +1,10 @@
 ---
-title: "Amplitude Govtech"
-description: "How Amplitude Govtech helps professionals solve industry-specific challenges."
+title: "Amplitude for GovTech"
+description: "Discover how Amplitude helps GovTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/govtech?lock=6"
+tool: "Amplitude"
+industry: "GovTech"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: A GovTech Perspective

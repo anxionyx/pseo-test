@@ -1,8 +1,10 @@
 ---
-title: "Okta Manufacturing"
-description: "How Okta Manufacturing helps professionals solve industry-specific challenges."
+title: "Okta for Manufacturing"
+description: "Discover how Okta helps Manufacturing professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/manufacturing?lock=79"
+tool: "Okta"
+industry: "Manufacturing"
 ---
 
 ### Streamlining CI/CD Pipelines in Manufacturing: Overcoming Legacy Testing Framework Bottlenecks with Okta

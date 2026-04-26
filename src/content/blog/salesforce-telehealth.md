@@ -1,8 +1,10 @@
 ---
-title: "Salesforce Telehealth"
-description: "How Salesforce Telehealth helps professionals solve industry-specific challenges."
+title: "Salesforce for Telehealth"
+description: "Discover how Salesforce helps Telehealth professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/telehealth?lock=90"
+tool: "Salesforce"
+industry: "Telehealth"
 ---
 
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Challenge for Telehealth

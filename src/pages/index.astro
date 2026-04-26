@@ -116,7 +116,7 @@ const posts = (await getCollection('blog')).sort(
 								{post.data.heroImage && (
 									<img width={720} height={360} src={post.data.heroImage} alt="" />
 								)}
-								<h3>{post.data.title.replace(/\[(.*?)\]\(.*?\)/g, '$1')}</h3>
+								<h3>{post.data.title}</h3>
 								<p class="date">
 									<FormattedDate date={post.data.pubDate} />
 								</p>

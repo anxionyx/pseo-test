@@ -1,8 +1,10 @@
 ---
-title: "Servicenow Adtech"
-description: "How Servicenow Adtech helps professionals solve industry-specific challenges."
+title: "ServiceNow for AdTech"
+description: "Discover how ServiceNow helps AdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/adtech?lock=91"
+tool: "ServiceNow"
+industry: "AdTech"
 ---
 
 ### Disconnected Customer Feedback Loops: A Major Pain Point in AdTech Customer Support Workflows

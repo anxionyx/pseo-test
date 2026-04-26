@@ -1,8 +1,10 @@
 ---
-title: "Hubspot Telehealth"
-description: "How Hubspot Telehealth helps professionals solve industry-specific challenges."
+title: "Hubspot for Telehealth"
+description: "Discover how Hubspot helps Telehealth professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/telehealth?lock=48"
+tool: "Hubspot"
+industry: "Telehealth"
 ---
 
 ### Solving Disconnected Customer Feedback Loops in Telehealth Customer Support Workflows

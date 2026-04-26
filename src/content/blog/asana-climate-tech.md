@@ -1,8 +1,10 @@
 ---
-title: "[Asana](https://asana.com/?utm_source=your-id) Climate Tech"
-description: "How [Asana](https://asana.com/?utm_source=your-id) Climate Tech helps professionals solve industry-specific challenges."
+title: "Asana for Climate Tech"
+description: "Discover how Asana helps Climate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/climate,tech?lock=8"
+tool: "Asana"
+industry: "Climate Tech"
 ---
 
 ### Simplifying Climate Tech: Unifying Audit Logs for Microservices Orchestration with Asana

@@ -1,8 +1,10 @@
 ---
-title: "Splunk Energy"
-description: "How Splunk Energy helps professionals solve industry-specific challenges."
+title: "Splunk for Energy"
+description: "Discover how Splunk helps Energy professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/energy?lock=106"
+tool: "Splunk"
+industry: "Energy"
 ---
 
 ### Disconnected Customer Feedback Loops: A Major Pain Point in Energy Customer Support Workflows

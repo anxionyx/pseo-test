@@ -1,8 +1,10 @@
 ---
-title: "Amplitude Foodtech"
-description: "How Amplitude Foodtech helps professionals solve industry-specific challenges."
+title: "Amplitude for FoodTech"
+description: "Discover how Amplitude helps FoodTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/foodtech?lock=5"
+tool: "Amplitude"
+industry: "FoodTech"
 ---
 
 ### Solving the Lack of Unified Audit Logs for Microservices Orchestration in FoodTech

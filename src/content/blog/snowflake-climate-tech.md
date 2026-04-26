@@ -1,8 +1,10 @@
 ---
-title: "Snowflake Climate Tech"
-description: "How Snowflake Climate Tech helps professionals solve industry-specific challenges."
+title: "Snowflake for Climate Tech"
+description: "Discover how Snowflake helps Climate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/climate,tech?lock=97"
+tool: "Snowflake"
+industry: "Climate Tech"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Climate Tech with Snowflake

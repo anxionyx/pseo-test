@@ -1,8 +1,10 @@
 ---
-title: "Notion Real Estate Tech"
-description: "How Notion Real Estate Tech helps professionals solve industry-specific challenges."
+title: "Notion for Real Estate Tech"
+description: "Discover how Notion helps Real Estate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=73"
+tool: "Notion"
+industry: "Real Estate Tech"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Real Estate Tech with Notion

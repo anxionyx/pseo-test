@@ -1,8 +1,10 @@
 ---
-title: "Figma Healthtech"
-description: "How Figma Healthtech helps professionals solve industry-specific challenges."
+title: "Figma for HealthTech"
+description: "Discover how Figma helps HealthTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/healthtech?lock=34"
+tool: "Figma"
+industry: "HealthTech"
 ---
 
 ### Streamlining Customer Support in HealthTech: How Figma Can Bridge the Gap in Disconnected Feedback Loops

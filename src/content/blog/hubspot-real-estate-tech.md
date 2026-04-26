@@ -1,8 +1,10 @@
 ---
-title: "Hubspot Real Estate Tech"
-description: "How Hubspot Real Estate Tech helps professionals solve industry-specific challenges."
+title: "Hubspot for Real Estate Tech"
+description: "Discover how Hubspot helps Real Estate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=46"
+tool: "Hubspot"
+industry: "Real Estate Tech"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Real Estate Tech Environments

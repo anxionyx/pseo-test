@@ -1,8 +1,10 @@
 ---
-title: "Snowflake Biotech"
-description: "How Snowflake Biotech helps professionals solve industry-specific challenges."
+title: "Snowflake for BioTech"
+description: "Discover how Snowflake helps BioTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/biotech?lock=96"
+tool: "Snowflake"
+industry: "BioTech"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: How Snowflake Can Revolutionize Biotech Data Management

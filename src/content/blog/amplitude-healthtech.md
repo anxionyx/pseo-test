@@ -1,8 +1,10 @@
 ---
-title: "Amplitude Healthtech"
-description: "How Amplitude Healthtech helps professionals solve industry-specific challenges."
+title: "Amplitude for HealthTech"
+description: "Discover how Amplitude helps HealthTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/healthtech?lock=7"
+tool: "Amplitude"
+industry: "HealthTech"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant HealthTech Environments with Amplitude

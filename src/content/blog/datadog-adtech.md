@@ -1,8 +1,10 @@
 ---
-title: "Datadog Adtech"
-description: "How Datadog Adtech helps professionals solve industry-specific challenges."
+title: "Datadog for AdTech"
+description: "Discover how Datadog helps AdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/adtech?lock=17"
+tool: "Datadog"
+industry: "AdTech"
 ---
 
 ### Inefficient Resource Allocation in AdTech: How Datadog Can Help

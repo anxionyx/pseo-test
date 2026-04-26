@@ -1,8 +1,10 @@
 ---
-title: "Hubspot Biotech"
-description: "How Hubspot Biotech helps professionals solve industry-specific challenges."
+title: "Hubspot for BioTech"
+description: "Discover how Hubspot helps BioTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/biotech?lock=40"
+tool: "Hubspot"
+industry: "BioTech"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Biotech Environments

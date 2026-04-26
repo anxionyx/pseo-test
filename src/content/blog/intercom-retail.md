@@ -1,8 +1,10 @@
 ---
-title: "Intercom Retail"
-description: "How Intercom Retail helps professionals solve industry-specific challenges."
+title: "Intercom for Retail"
+description: "Discover how Intercom helps Retail professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/retail?lock=54"
+tool: "Intercom"
+industry: "Retail"
 ---
 
 ### Breaking Down Data Silos in Retail: How Intercom Can Help

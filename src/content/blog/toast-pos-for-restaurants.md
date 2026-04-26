@@ -1,8 +1,10 @@
 ---
-title: "Toast Pos For Restaurants"
-description: "How Toast Pos For Restaurants helps professionals solve industry-specific challenges."
+title: "Toast Pos for Restaurants"
+description: "Discover how Toast Pos helps Restaurants professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/restaurants?lock=114"
+tool: "Toast Pos"
+industry: "Restaurants"
 ---
 
 # Streamlining Inventory Management Across Multiple Locations with Toast POS

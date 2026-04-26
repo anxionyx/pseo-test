@@ -1,8 +1,10 @@
 ---
-title: "Deel Telehealth"
-description: "How Deel Telehealth helps professionals solve industry-specific challenges."
+title: "Deel for Telehealth"
+description: "Discover how Deel helps Telehealth professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/telehealth?lock=28"
+tool: "Deel"
+industry: "Telehealth"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Telehealth with Deel

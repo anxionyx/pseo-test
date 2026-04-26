@@ -1,8 +1,10 @@
 ---
-title: "Amplitude Biotech"
-description: "How Amplitude Biotech helps professionals solve industry-specific challenges."
+title: "Amplitude for BioTech"
+description: "Discover how Amplitude helps BioTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/biotech?lock=4"
+tool: "Amplitude"
+industry: "BioTech"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Biotech Environments with Amplitude

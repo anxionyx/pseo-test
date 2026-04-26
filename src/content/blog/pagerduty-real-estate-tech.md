@@ -1,8 +1,10 @@
 ---
-title: "Pagerduty Real Estate Tech"
-description: "How Pagerduty Real Estate Tech helps professionals solve industry-specific challenges."
+title: "PagerDuty for Real Estate Tech"
+description: "Discover how PagerDuty helps Real Estate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=84"
+tool: "PagerDuty"
+industry: "Real Estate Tech"
 ---
 
 ### Solving the Lack of Unified Audit Logs for Microservices Orchestration in Real Estate Tech

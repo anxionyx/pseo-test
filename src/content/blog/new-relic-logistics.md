@@ -1,8 +1,10 @@
 ---
-title: "New Relic Logistics"
-description: "How New Relic Logistics helps professionals solve industry-specific challenges."
+title: "New Relic for Logistics"
+description: "Discover how New Relic helps Logistics professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/relic,logistics?lock=67"
+tool: "New Relic"
+industry: "Logistics"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant Logistics Environments with New Relic

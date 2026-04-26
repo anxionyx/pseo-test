@@ -1,8 +1,10 @@
 ---
-title: "Workday Energy"
-description: "How Workday Energy helps professionals solve industry-specific challenges."
+title: "Workday for Energy"
+description: "Discover how Workday helps Energy professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/energy?lock=116"
+tool: "Workday"
+industry: "Energy"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Energy Companies with Workday

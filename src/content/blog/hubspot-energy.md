@@ -1,8 +1,10 @@
 ---
-title: "Hubspot Energy"
-description: "How Hubspot Energy helps professionals solve industry-specific challenges."
+title: "Hubspot for Energy"
+description: "Discover how Hubspot helps Energy professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/energy?lock=42"
+tool: "Hubspot"
+industry: "Energy"
 ---
 
 ### Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps for the Energy Industry

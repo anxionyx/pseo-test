@@ -1,8 +1,10 @@
 ---
-title: "Hubspot Gaming"
-description: "How Hubspot Gaming helps professionals solve industry-specific challenges."
+title: "Hubspot for Gaming"
+description: "Discover how Hubspot helps Gaming professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/gaming?lock=45"
+tool: "Hubspot"
+industry: "Gaming"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: A Guide for Gaming Companies

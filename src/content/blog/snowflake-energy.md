@@ -1,8 +1,10 @@
 ---
-title: "Snowflake Energy"
-description: "How Snowflake Energy helps professionals solve industry-specific challenges."
+title: "Snowflake for Energy"
+description: "Discover how Snowflake helps Energy professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/energy?lock=99"
+tool: "Snowflake"
+industry: "Energy"
 ---
 
 ### Unifying Audit Logs for Energy Microservices Orchestration with Snowflake

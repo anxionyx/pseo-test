@@ -1,8 +1,10 @@
 ---
-title: "Hubspot Retail"
-description: "How Hubspot Retail helps professionals solve industry-specific challenges."
+title: "Hubspot for Retail"
+description: "Discover how Hubspot helps Retail professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/retail?lock=47"
+tool: "Hubspot"
+industry: "Retail"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for Retail

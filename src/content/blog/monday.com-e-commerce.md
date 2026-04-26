@@ -1,8 +1,10 @@
 ---
-title: "Monday.Com E Commerce"
-description: "How Monday.Com E Commerce helps professionals solve industry-specific challenges."
+title: "Monday.com for E Commerce"
+description: "Discover how Monday.com helps E Commerce professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/e,commerce?lock=62"
+tool: "Monday.com"
+industry: "E Commerce"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization with Monday.com for E-commerce

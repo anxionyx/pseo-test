@@ -1,8 +1,10 @@
 ---
-title: "Datadog Real Estate Tech"
-description: "How Datadog Real Estate Tech helps professionals solve industry-specific challenges."
+title: "Datadog for Real Estate Tech"
+description: "Discover how Datadog helps Real Estate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=23"
+tool: "Datadog"
+industry: "Real Estate Tech"
 ---
 
 ### Streamlining Global Payroll Operations: How Datadog Can Help Real Estate Tech Companies

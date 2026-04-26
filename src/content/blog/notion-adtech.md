@@ -1,8 +1,10 @@
 ---
-title: "Notion Adtech"
-description: "How Notion Adtech helps professionals solve industry-specific challenges."
+title: "Notion for AdTech"
+description: "Discover how Notion helps AdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/adtech?lock=68"
+tool: "Notion"
+industry: "AdTech"
 ---
 
 ### Streamlining AdTech CI/CD Pipelines with Notion: Overcoming Legacy Testing Framework Bottlenecks

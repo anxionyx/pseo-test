@@ -1,8 +1,10 @@
 ---
-title: "Notion Hr Tech"
-description: "How Notion Hr Tech helps professionals solve industry-specific challenges."
+title: "Notion for Hr Tech"
+description: "Discover how Notion helps Hr Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/hr,tech?lock=71"
+tool: "Notion"
+industry: "Hr Tech"
 ---
 
 ### Simplifying Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters with Notion for HR Tech

@@ -1,8 +1,10 @@
 ---
-title: "[Stripe](https://stripe.com/referral/your-id) Energy"
-description: "How [Stripe](https://stripe.com/referral/your-id) Energy helps professionals solve industry-specific challenges."
+title: "Stripe for Energy"
+description: "Discover how Stripe helps Energy professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/energy?lock=111"
+tool: "Stripe"
+industry: "Energy"
 ---
 
 ### Breaking Down Data Silos in the Energy Sector: How Stripe Can Help

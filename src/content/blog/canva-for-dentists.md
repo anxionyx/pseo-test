@@ -1,8 +1,10 @@
 ---
-title: "[Canva](https://partner.canva.com/your-id) For Dentists"
-description: "How [Canva](https://partner.canva.com/your-id) For Dentists helps professionals solve industry-specific challenges."
+title: "Canva for Dentists"
+description: "Discover how Canva helps Dentists professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/dentists?lock=14"
+tool: "Canva"
+industry: "Dentists"
 ---
 
 # Canva: The Ultimate Solution for Dentists to Create Engaging Social Media Posts

@@ -1,8 +1,10 @@
 ---
-title: "Monday.Com Edtech"
-description: "How Monday.Com Edtech helps professionals solve industry-specific challenges."
+title: "Monday.com for EdTech"
+description: "Discover how Monday.com helps EdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/edtech?lock=63"
+tool: "Monday.com"
+industry: "EdTech"
 ---
 
 ### Streamlining Customer Support Workflows in EdTech: Solving Disconnected Feedback Loops with Monday.com

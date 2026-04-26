@@ -1,8 +1,10 @@
 ---
-title: "[Airtable](https://airtable.com/invite/r/your-id) Manufacturing"
-description: "How [Airtable](https://airtable.com/invite/r/your-id) Manufacturing helps professionals solve industry-specific challenges."
+title: "Airtable for Manufacturing"
+description: "Discover how Airtable helps Manufacturing professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/manufacturing?lock=3"
+tool: "Airtable"
+industry: "Manufacturing"
 ---
 
 ### Inefficient Resource Allocation in Distributed Software Engineering Teams: A Manufacturing Perspective

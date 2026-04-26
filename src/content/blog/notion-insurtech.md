@@ -1,8 +1,10 @@
 ---
-title: "Notion Insurtech"
-description: "How Notion Insurtech helps professionals solve industry-specific challenges."
+title: "Notion for InsurTech"
+description: "Discover how Notion helps InsurTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/insurtech?lock=72"
+tool: "Notion"
+industry: "InsurTech"
 ---
 
 # Unified Audit Logs for InsurTech: Streamlining Microservices Orchestration with Notion

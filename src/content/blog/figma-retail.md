@@ -1,8 +1,10 @@
 ---
-title: "Figma Retail"
-description: "How Figma Retail helps professionals solve industry-specific challenges."
+title: "Figma for Retail"
+description: "Discover how Figma helps Retail professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/retail?lock=36"
+tool: "Figma"
+industry: "Retail"
 ---
 
 ### Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps: A Retailer's Dilemma

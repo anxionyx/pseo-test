@@ -1,8 +1,10 @@
 ---
-title: "Snowflake Healthtech"
-description: "How Snowflake Healthtech helps professionals solve industry-specific challenges."
+title: "Snowflake for HealthTech"
+description: "Discover how Snowflake helps HealthTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/healthtech?lock=101"
+tool: "Snowflake"
+industry: "HealthTech"
 ---
 
 ### Unlocking Efficient CI/CD Pipelines in HealthTech with Snowflake

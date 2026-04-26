@@ -1,8 +1,10 @@
 ---
-title: "Salesforce Insurtech"
-description: "How Salesforce Insurtech helps professionals solve industry-specific challenges."
+title: "Salesforce for InsurTech"
+description: "Discover how Salesforce helps InsurTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/insurtech?lock=87"
+tool: "Salesforce"
+industry: "InsurTech"
 ---
 
 ### Streamlining InsurTech with Salesforce: Overcoming CI/CD Bottlenecks

@@ -1,8 +1,10 @@
 ---
-title: "Intercom Telehealth"
-description: "How Intercom Telehealth helps professionals solve industry-specific challenges."
+title: "Intercom for Telehealth"
+description: "Discover how Intercom helps Telehealth professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/telehealth?lock=55"
+tool: "Intercom"
+industry: "Telehealth"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Telehealth Multi-Tenant Environments with Intercom

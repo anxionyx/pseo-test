@@ -1,8 +1,10 @@
 ---
-title: "[Jira](https://atlassian.com/software/jira/your-id) Healthtech"
-description: "How [Jira](https://atlassian.com/software/jira/your-id) Healthtech helps professionals solve industry-specific challenges."
+title: "Jira for HealthTech"
+description: "Discover how Jira helps HealthTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/healthtech?lock=59"
+tool: "Jira"
+industry: "HealthTech"
 ---
 
 ### Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps with Jira

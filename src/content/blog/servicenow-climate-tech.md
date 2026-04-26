@@ -1,8 +1,10 @@
 ---
-title: "Servicenow Climate Tech"
-description: "How Servicenow Climate Tech helps professionals solve industry-specific challenges."
+title: "ServiceNow for Climate Tech"
+description: "Discover how ServiceNow helps Climate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/climate,tech?lock=92"
+tool: "ServiceNow"
+industry: "Climate Tech"
 ---
 
 ### Streamlining Climate Tech CI/CD Pipelines with ServiceNow

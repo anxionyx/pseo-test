@@ -1,8 +1,10 @@
 ---
-title: "Hubspot E Commerce"
-description: "How Hubspot E Commerce helps professionals solve industry-specific challenges."
+title: "Hubspot for E Commerce"
+description: "Discover how Hubspot helps E Commerce professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/e,commerce?lock=41"
+tool: "Hubspot"
+industry: "E Commerce"
 ---
 
 ### Solving Bottlenecks in CI/CD Pipelines: A Guide for E-commerce Businesses

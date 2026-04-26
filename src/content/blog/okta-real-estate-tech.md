@@ -1,8 +1,10 @@
 ---
-title: "Okta Real Estate Tech"
-description: "How Okta Real Estate Tech helps professionals solve industry-specific challenges."
+title: "Okta for Real Estate Tech"
+description: "Discover how Okta helps Real Estate Tech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/real,estate,tech?lock=80"
+tool: "Okta"
+industry: "Real Estate Tech"
 ---
 
 ### Breaking Down Data Silos in Real Estate Tech: How Okta Can Help

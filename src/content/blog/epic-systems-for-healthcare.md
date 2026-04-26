@@ -1,8 +1,10 @@
 ---
-title: "Epic Systems For Healthcare"
-description: "How Epic Systems For Healthcare helps professionals solve industry-specific challenges."
+title: "Epic Systems for Healthcare"
+description: "Discover how Epic Systems helps Healthcare professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/healthcare?lock=30"
+tool: "Epic Systems"
+industry: "Healthcare"
 ---
 
 # Enhancing Healthcare Interoperability with Epic Systems

@@ -1,8 +1,10 @@
 ---
-title: "Datadog Edtech"
-description: "How Datadog Edtech helps professionals solve industry-specific challenges."
+title: "Datadog for EdTech"
+description: "Discover how Datadog helps EdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/edtech?lock=19"
+tool: "Datadog"
+industry: "EdTech"
 ---
 
 ### Solving High Latency in Real-Time Inventory Synchronization for EdTech with Datadog

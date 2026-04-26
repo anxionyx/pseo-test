@@ -1,8 +1,10 @@
 ---
-title: "Deel Insurtech"
-description: "How Deel Insurtech helps professionals solve industry-specific challenges."
+title: "Deel for InsurTech"
+description: "Discover how Deel helps InsurTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/insurtech?lock=26"
+tool: "Deel"
+industry: "InsurTech"
 ---
 
 ### Breaking Down Data Silos in InsurTech: How Deel Can Help

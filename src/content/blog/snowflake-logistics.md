@@ -1,8 +1,10 @@
 ---
-title: "Snowflake Logistics"
-description: "How Snowflake Logistics helps professionals solve industry-specific challenges."
+title: "Snowflake for Logistics"
+description: "Discover how Snowflake helps Logistics professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/logistics?lock=102"
+tool: "Snowflake"
+industry: "Logistics"
 ---
 
 ### Streamlining Logistics: Solving Manual Reconciliation of Multi-Currency Cross-Border Payroll with Snowflake

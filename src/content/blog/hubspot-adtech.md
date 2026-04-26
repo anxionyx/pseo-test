@@ -1,8 +1,10 @@
 ---
-title: "Hubspot Adtech"
-description: "How Hubspot Adtech helps professionals solve industry-specific challenges."
+title: "Hubspot for AdTech"
+description: "Discover how Hubspot helps AdTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/adtech?lock=39"
+tool: "Hubspot"
+industry: "AdTech"
 ---
 
 ### Solving Inconsistent User Behavior Tracking in Cross-Platform Mobile Apps

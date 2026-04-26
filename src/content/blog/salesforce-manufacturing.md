@@ -1,8 +1,10 @@
 ---
-title: "Salesforce Manufacturing"
-description: "How Salesforce Manufacturing helps professionals solve industry-specific challenges."
+title: "Salesforce for Manufacturing"
+description: "Discover how Salesforce helps Manufacturing professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/manufacturing?lock=88"
+tool: "Salesforce"
+industry: "Manufacturing"
 ---
 
 ### Solving Fragmented Infrastructure Visibility Across Hybrid Cloud Clusters in Manufacturing with Salesforce

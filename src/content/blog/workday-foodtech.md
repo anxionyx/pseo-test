@@ -1,8 +1,10 @@
 ---
-title: "Workday Foodtech"
-description: "How Workday Foodtech helps professionals solve industry-specific challenges."
+title: "Workday for FoodTech"
+description: "Discover how Workday helps FoodTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/foodtech?lock=117"
+tool: "Workday"
+industry: "FoodTech"
 ---
 
 ### Simplifying Complex Compliance Reporting for GDPR in Multi-Tenant FoodTech Environments with Workday

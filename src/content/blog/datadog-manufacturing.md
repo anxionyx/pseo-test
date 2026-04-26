@@ -1,8 +1,10 @@
 ---
-title: "Datadog Manufacturing"
-description: "How Datadog Manufacturing helps professionals solve industry-specific challenges."
+title: "Datadog for Manufacturing"
+description: "Discover how Datadog helps Manufacturing professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/manufacturing?lock=22"
+tool: "Datadog"
+industry: "Manufacturing"
 ---
 
 ### Simplifying Fragmented Infrastructure Visibility in Hybrid Cloud Clusters for Manufacturers

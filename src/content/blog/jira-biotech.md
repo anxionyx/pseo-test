@@ -1,8 +1,10 @@
 ---
-title: "[Jira](https://atlassian.com/software/jira/your-id) Biotech"
-description: "How [Jira](https://atlassian.com/software/jira/your-id) Biotech helps professionals solve industry-specific challenges."
+title: "Jira for BioTech"
+description: "Discover how Jira helps BioTech professionals solve critical industry-specific challenges and optimize workflows."
 pubDate: "2026-04-25"
 heroImage: "https://loremflickr.com/800/600/biotech?lock=56"
+tool: "Jira"
+industry: "BioTech"
 ---
 
 ### Simplifying Biotech Microservices Orchestration with Jira: Unified Audit Logs
