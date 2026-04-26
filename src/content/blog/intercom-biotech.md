@@ -46,3 +46,13 @@ Manual reconciliation of multi-currency cross-border payroll payments is a compl
 
 #### Contact Us
 If you're interested in learning more about how Intercom can help your biotech company streamline its payroll reconciliation processes, contact us today. Our team of experts is available to answer your questions and provide a personalized demo of our platform. [Contact Us](https://www.intercom.com/contact)
+
+## Related Articles
+- [Asana Energy](/blog/asana-energy/)
+- [Figma Legaltech](/blog/figma-legaltech/)
+- [Jira Gaming](/blog/jira-gaming/)
+- [Asana Cybersecurity](/blog/asana-cybersecurity/)
+- [Hubspot Biotech](/blog/hubspot-biotech/)
+- [Asana Climate Tech](/blog/asana-climate-tech/)
+- [Deel Retail](/blog/deel-retail/)
+- [Docusign For Real Estate](/blog/docusign-for-real-estate/)

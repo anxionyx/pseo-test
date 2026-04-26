@@ -44,3 +44,13 @@ Legacy testing frameworks can be a significant obstacle for climate tech compani
 
 ### Get Started with ServiceNow for Climate Tech
 If you're a climate tech company looking to overcome bottlenecks in your CI/CD pipelines, get started with ServiceNow today. With its powerful automation and testing capabilities, ServiceNow can help you streamline your pipelines, improve quality, and focus on your core business activities. Contact us to learn more about how ServiceNow can help your climate tech organization thrive.
+
+## Related Articles
+- [Pagerduty Real Estate Tech](/blog/pagerduty-real-estate-tech/)
+- [Intercom Telehealth](/blog/intercom-telehealth/)
+- [Jira Cybersecurity](/blog/jira-cybersecurity/)
+- [Jira Gaming](/blog/jira-gaming/)
+- [Clio For Law Firms](/blog/clio-for-law-firms/)
+- [Airtable Manufacturing](/blog/airtable-manufacturing/)
+- [Hubspot Biotech](/blog/hubspot-biotech/)
+- [Deel Telehealth](/blog/deel-telehealth/)

@@ -48,3 +48,13 @@ Legacy testing frameworks can be a significant bottleneck in HealthTech CI/CD pi
 
 ### Additional Resources
 For more information on how Snowflake can help solve bottlenecks in HealthTech CI/CD pipelines, please visit our [website](https://www.snowflake.com). You can also contact us to [schedule a demo](https://www.snowflake.com/demo/) or [request a free trial](https://www.snowflake.com/free-trial/).
+
+## Related Articles
+- [Asana Insurtech](/blog/asana-insurtech/)
+- [Jira Biotech](/blog/jira-biotech/)
+- [Figma Climate Tech](/blog/figma-climate-tech/)
+- [Datadog Govtech](/blog/datadog-govtech/)
+- [Datadog Edtech](/blog/datadog-edtech/)
+- [Amplitude Govtech](/blog/amplitude-govtech/)
+- [Canvas Lms For Education](/blog/canvas-lms-for-education/)
+- [Stripe Energy](/blog/stripe-energy/)

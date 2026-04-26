@@ -46,3 +46,13 @@ For more information on how Salesforce can help telehealth companies solve the p
 * **Salesforce for Telehealth**: Learn how Salesforce can help telehealth companies deliver high-quality patient care and improve operational efficiency.
 * **Resource Allocation Management**: Discover how Salesforce can help teams manage resource allocation effectively, including resource planning, allocation, and utilization tracking.
 * **Telehealth Industry Solutions**: Explore Salesforce solutions for the telehealth industry, including patient engagement, care coordination, and population health management.
+
+## Related Articles
+- [Figma Healthtech](/blog/figma-healthtech/)
+- [Servicenow Climate Tech](/blog/servicenow-climate-tech/)
+- [Jira Healthtech](/blog/jira-healthtech/)
+- [Airtable Edtech](/blog/airtable-edtech/)
+- [Hubspot Gaming](/blog/hubspot-gaming/)
+- [Asana Cybersecurity](/blog/asana-cybersecurity/)
+- [Okta E Commerce](/blog/okta-e-commerce/)
+- [Zendesk For E Commerce](/blog/zendesk-for-e-commerce/)

@@ -48,3 +48,13 @@ A: Okta's identity and access management solution provides a secure, scalable, a
 
 #### Get Started with Okta Today
 If you're an e-commerce business struggling with high latency in real-time inventory synchronization, get started with Okta today. Contact us to learn more about how Okta's identity and access management solution can help you achieve real-time inventory synchronization and improve the customer experience.
+
+## Related Articles
+- [Okta Telehealth](/blog/okta-telehealth/)
+- [New Relic E Commerce](/blog/new-relic-e-commerce/)
+- [Jira Gaming](/blog/jira-gaming/)
+- [Salesforce Telehealth](/blog/salesforce-telehealth/)
+- [Hubspot Fintech](/blog/hubspot-fintech/)
+- [Monday.Com Healthtech](/blog/monday.com-healthtech/)
+- [Snowflake Energy](/blog/snowflake-energy/)
+- [Okta Retail](/blog/okta-retail/)

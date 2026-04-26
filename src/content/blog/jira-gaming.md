@@ -45,3 +45,13 @@ Ready to transform your payroll reconciliation process? [Sign up for a free Jira
 * Increase efficiency and reduce costs
 
 Don't let manual payroll reconciliation hold you back. Try Jira today and experience the power of streamlined payroll processes for yourself.
+
+## Related Articles
+- [Asana Insurtech](/blog/asana-insurtech/)
+- [Okta Energy](/blog/okta-energy/)
+- [Deel Telehealth](/blog/deel-telehealth/)
+- [Airtable Edtech](/blog/airtable-edtech/)
+- [Clio For Law Firms](/blog/clio-for-law-firms/)
+- [Figma Healthtech](/blog/figma-healthtech/)
+- [Hubspot Energy](/blog/hubspot-energy/)
+- [Datadog Edtech](/blog/datadog-edtech/)

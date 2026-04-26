@@ -42,3 +42,13 @@ To get the most out of Figma for retail, follow these best practices:
 
 #### Conclusion
 Inconsistent user behavior tracking is a significant challenge for retailers developing cross-platform mobile apps. However, by using Figma, retailers can create a unified design environment, collaborate with stakeholders, and test and validate their app's design and functionality. By following best practices and using Figma to its full potential, retailers can solve the problem of inconsistent user behavior tracking and create apps with a consistent user experience that drives conversions and sales. With Figma, retailers can take their mobile commerce to the next level and stay ahead of the competition.
+
+## Related Articles
+- [Stripe Energy](/blog/stripe-energy/)
+- [Procore For Construction](/blog/procore-for-construction/)
+- [Workday Foodtech](/blog/workday-foodtech/)
+- [Pagerduty Cybersecurity](/blog/pagerduty-cybersecurity/)
+- [Snowflake Govtech](/blog/snowflake-govtech/)
+- [Airtable Fintech](/blog/airtable-fintech/)
+- [Intercom Legaltech](/blog/intercom-legaltech/)
+- [Hubspot Retail](/blog/hubspot-retail/)

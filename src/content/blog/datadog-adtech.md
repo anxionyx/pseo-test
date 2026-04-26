@@ -44,3 +44,13 @@ Inefficient resource allocation is a significant challenge for AdTech companies,
 
 #### Get Started with Datadog
 To learn more about how Datadog can help your AdTech company optimize resource allocation, [sign up for a free trial](https://www.datadoghq.com/free-trial/) or [contact us](https://www.datadoghq.com/about/contact/) to schedule a demo. With Datadog, you can start monitoring and optimizing your systems in minutes, and begin realizing the benefits of efficient resource allocation.
+
+## Related Articles
+- [Zendesk For E Commerce](/blog/zendesk-for-e-commerce/)
+- [Procore For Construction](/blog/procore-for-construction/)
+- [Airtable Fintech](/blog/airtable-fintech/)
+- [Salesforce Real Estate Tech](/blog/salesforce-real-estate-tech/)
+- [Canva For Dentists](/blog/canva-for-dentists/)
+- [Hubspot E Commerce](/blog/hubspot-e-commerce/)
+- [Amplitude Biotech](/blog/amplitude-biotech/)
+- [Asana Insurtech](/blog/asana-insurtech/)

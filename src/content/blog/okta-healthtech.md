@@ -40,3 +40,13 @@ By using Okta to solve disconnected customer feedback loops, HealthTech companie
 
 #### Conclusion
 Disconnected customer feedback loops are a common challenge in HealthTech customer support workflows. However, with Okta, HealthTech companies can solve this problem by integrating customer feedback into their workflows, providing visibility, analysis, and actionability. By using Okta, HealthTech companies can improve customer satisfaction, increase efficiency, and make better decisions about product development and improvement. If you're a HealthTech company looking to solve the problem of disconnected customer feedback loops, consider using Okta to improve your customer support workflows.
+
+## Related Articles
+- [Airtable Manufacturing](/blog/airtable-manufacturing/)
+- [Notion Insurtech](/blog/notion-insurtech/)
+- [Notion Hr Tech](/blog/notion-hr-tech/)
+- [Canvas Lms For Education](/blog/canvas-lms-for-education/)
+- [Amplitude Foodtech](/blog/amplitude-foodtech/)
+- [Figma Healthtech](/blog/figma-healthtech/)
+- [Datadog Adtech](/blog/datadog-adtech/)
+- [Splunk Real Estate Tech](/blog/splunk-real-estate-tech/)

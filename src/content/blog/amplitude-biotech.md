@@ -39,3 +39,13 @@ In conclusion, ensuring GDPR compliance in multi-tenant biotech environments can
 * Biotech companies can leverage Amplitude to demonstrate compliance with GDPR's data protection principles, transparency, and accountability requirements
 * Implementing tenant-specific data segregation, data processing activity monitoring, automated compliance reporting, and a DSAR response process can help biotech companies ensure GDPR compliance
 * By following best practices for implementing Amplitude, biotech companies can reduce the risk of non-compliance and focus on advancing medical research and improving human health.
+
+## Related Articles
+- [Stripe Logistics](/blog/stripe-logistics/)
+- [Intercom Hr Tech](/blog/intercom-hr-tech/)
+- [Intercom Climate Tech](/blog/intercom-climate-tech/)
+- [Epic Systems For Healthcare](/blog/epic-systems-for-healthcare/)
+- [Canva For Dentists](/blog/canva-for-dentists/)
+- [Jira Cybersecurity](/blog/jira-cybersecurity/)
+- [Monday.Com Cybersecurity](/blog/monday.com-cybersecurity/)
+- [Zendesk For E Commerce](/blog/zendesk-for-e-commerce/)

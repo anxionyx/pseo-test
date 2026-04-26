@@ -26,3 +26,13 @@ The benefits of using Epic Systems' interoperability solutions include:
 * Scalable and flexible solutions to support growth and expansion
 
 By leveraging Epic Systems' interoperability solutions, healthcare organizations can overcome the challenges of maintaining interoperability between different provider networks. With Epic, healthcare providers can focus on delivering high-quality patient care, improving outcomes, and reducing costs. If you're interested in learning more about how Epic Systems can help your healthcare organization achieve seamless interoperability, we invite you to try their solutions today. Contact Epic Systems to schedule a demo and discover the power of interoperability in healthcare.
+
+## Related Articles
+- [Airtable Edtech](/blog/airtable-edtech/)
+- [Deel Telehealth](/blog/deel-telehealth/)
+- [Hubspot Gaming](/blog/hubspot-gaming/)
+- [Canva For Dentists](/blog/canva-for-dentists/)
+- [Hubspot For Marketing Agencies](/blog/hubspot-for-marketing-agencies/)
+- [Amplitude Foodtech](/blog/amplitude-foodtech/)
+- [Figma Telehealth](/blog/figma-telehealth/)
+- [Datadog E Commerce](/blog/datadog-e-commerce/)

@@ -50,3 +50,13 @@ To learn more about how Airtable can help your EdTech company simplify cross-bor
 * Access real-time reporting and analytics to track payroll data and identify areas for improvement
 
 Don't let manual reconciliation of multi-currency cross-border payroll hold you back. Try Airtable today and discover a better way to manage your EdTech company's payroll.
+
+## Related Articles
+- [Amplitude Healthtech](/blog/amplitude-healthtech/)
+- [Jira Cybersecurity](/blog/jira-cybersecurity/)
+- [Figma Climate Tech](/blog/figma-climate-tech/)
+- [Deel Telehealth](/blog/deel-telehealth/)
+- [Hubspot For Marketing Agencies](/blog/hubspot-for-marketing-agencies/)
+- [Asana Climate Tech](/blog/asana-climate-tech/)
+- [Deel Energy](/blog/deel-energy/)
+- [Intercom Real Estate Tech](/blog/intercom-real-estate-tech/)

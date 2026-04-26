@@ -69,3 +69,13 @@ Streamline your cybersecurity operations with Jira. Automate manual reconciliati
 #### Internal Linking
 * Link to Jira website: [Jira](https://www.atlassian.com/software/jira)
 * Link to cybersecurity blog post: [Cybersecurity](/cybersecurity)
+
+## Related Articles
+- [Okta Energy](/blog/okta-energy/)
+- [Airtable Manufacturing](/blog/airtable-manufacturing/)
+- [Amplitude Healthtech](/blog/amplitude-healthtech/)
+- [Pagerduty Cybersecurity](/blog/pagerduty-cybersecurity/)
+- [Servicenow Energy](/blog/servicenow-energy/)
+- [Figma Retail](/blog/figma-retail/)
+- [Canvas Lms For Education](/blog/canvas-lms-for-education/)
+- [Servicenow Adtech](/blog/servicenow-adtech/)

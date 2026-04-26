@@ -47,3 +47,13 @@ Fragmented infrastructure visibility is a common challenge for manufacturers tra
 
 #### Get Started with Datadog Today
 To learn more about how Datadog can help your manufacturing organization simplify fragmented infrastructure visibility, sign up for a [free trial](https://www.datadoghq.com/) today. With Datadog, you can start monitoring your hybrid cloud infrastructure in minutes and begin optimizing your operations for improved efficiency, agility, and cost-effectiveness.
+
+## Related Articles
+- [New Relic Logistics](/blog/new-relic-logistics/)
+- [Airtable Biotech](/blog/airtable-biotech/)
+- [Airtable Edtech](/blog/airtable-edtech/)
+- [Clio For Law Firms](/blog/clio-for-law-firms/)
+- [Monday.Com Edtech](/blog/monday.com-edtech/)
+- [Figma Retail](/blog/figma-retail/)
+- [Stripe Logistics](/blog/stripe-logistics/)
+- [Intercom Legaltech](/blog/intercom-legaltech/)

@@ -49,3 +49,13 @@ If you're an EdTech company looking to break down data silos and unlock the powe
 4. **Work with a Salesforce partner** or consultant to implement and customize your Salesforce solution.
 
 By following these steps and leveraging the power of Salesforce, EdTech companies can break down data silos and unlock the full potential of their customer data. Whether you're a small startup or a large enterprise, Salesforce can help you achieve your goals and succeed in the competitive EdTech market.
+
+## Related Articles
+- [Notion Hr Tech](/blog/notion-hr-tech/)
+- [Intercom Hr Tech](/blog/intercom-hr-tech/)
+- [Asana Climate Tech](/blog/asana-climate-tech/)
+- [Airtable Edtech](/blog/airtable-edtech/)
+- [Jira Cybersecurity](/blog/jira-cybersecurity/)
+- [Docusign For Real Estate](/blog/docusign-for-real-estate/)
+- [Intercom Real Estate Tech](/blog/intercom-real-estate-tech/)
+- [Figma Climate Tech](/blog/figma-climate-tech/)

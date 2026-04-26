@@ -41,3 +41,13 @@ To get started with Datadog, e-commerce companies can:
 * **Sign up for a free trial**: Try Datadog for free and experience the benefits of unified infrastructure visibility.
 * **Contact sales**: Reach out to Datadog's sales team to discuss your specific needs and requirements.
 * **Explore documentation and resources**: Visit Datadog's documentation and resources page to learn more about the platform and its capabilities.
+
+## Related Articles
+- [Snowflake Energy](/blog/snowflake-energy/)
+- [Splunk Energy](/blog/splunk-energy/)
+- [Monday.Com Healthtech](/blog/monday.com-healthtech/)
+- [Monday.Com Foodtech](/blog/monday.com-foodtech/)
+- [Asana Cybersecurity](/blog/asana-cybersecurity/)
+- [Intercom Hr Tech](/blog/intercom-hr-tech/)
+- [Stripe Logistics](/blog/stripe-logistics/)
+- [Amplitude Healthtech](/blog/amplitude-healthtech/)

@@ -46,3 +46,13 @@ The modernization of GovTech services relies heavily on the efficiency and relia
 * **What is Amplitude?**: Amplitude is a cutting-edge platform designed to optimize CI/CD pipelines by streamlining testing processes and enhancing compatibility with modern technologies.
 * **How does Amplitude solve bottlenecks in CI/CD pipelines?**: Amplitude solves bottlenecks by automating testing processes, reducing manual intervention, and providing real-time analytics for data-driven decision-making.
 * **Is Amplitude compatible with legacy systems?**: Yes, Amplitude is designed to be compatible with a wide range of technologies and frameworks, including legacy systems, ensuring seamless integration and minimal disruption to existing workflows.
+
+## Related Articles
+- [New Relic Logistics](/blog/new-relic-logistics/)
+- [Okta Retail](/blog/okta-retail/)
+- [Asana Hr Tech](/blog/asana-hr-tech/)
+- [Intercom Legaltech](/blog/intercom-legaltech/)
+- [Epic Systems For Healthcare](/blog/epic-systems-for-healthcare/)
+- [Splunk Climate Tech](/blog/splunk-climate-tech/)
+- [Okta Edtech](/blog/okta-edtech/)
+- [Snowflake Govtech](/blog/snowflake-govtech/)

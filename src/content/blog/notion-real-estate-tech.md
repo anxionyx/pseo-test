@@ -45,3 +45,13 @@ For more information on how Notion can help your real estate tech company, pleas
 * **Notion templates**: Get started with pre-built templates designed specifically for real estate tech companies.
 * **Notion API documentation**: Learn more about Notion's API and how to integrate it with your existing systems.
 * **Notion community forum**: Join our community forum to connect with other Notion users and get answers to your questions.
+
+## Related Articles
+- [Airtable Manufacturing](/blog/airtable-manufacturing/)
+- [Servicenow Adtech](/blog/servicenow-adtech/)
+- [Okta E Commerce](/blog/okta-e-commerce/)
+- [Snowflake Energy](/blog/snowflake-energy/)
+- [Notion Hr Tech](/blog/notion-hr-tech/)
+- [Servicenow Energy](/blog/servicenow-energy/)
+- [Amplitude Biotech](/blog/amplitude-biotech/)
+- [Okta Telehealth](/blog/okta-telehealth/)

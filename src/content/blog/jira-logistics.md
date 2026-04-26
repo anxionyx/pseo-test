@@ -44,3 +44,13 @@ To get the most out of Jira for customer support workflows, logistics companies 
 
 #### Conclusion
 Disconnected customer feedback loops can have a significant impact on customer satisfaction and loyalty in the logistics industry. By using Jira to streamline customer support workflows, logistics companies can close the gap in customer feedback loops and improve customer satisfaction, efficiency, and visibility. With its powerful workflow management, issue tracking, and reporting capabilities, Jira is the perfect tool for logistics companies looking to take their customer support to the next level. By following best practices and configuring Jira to meet their unique business needs, logistics companies can experience the many benefits of using Jira for customer support workflows.
+
+## Related Articles
+- [Hubspot Telehealth](/blog/hubspot-telehealth/)
+- [Okta Real Estate Tech](/blog/okta-real-estate-tech/)
+- [Zendesk For E Commerce](/blog/zendesk-for-e-commerce/)
+- [Airtable Manufacturing](/blog/airtable-manufacturing/)
+- [Snowflake Manufacturing](/blog/snowflake-manufacturing/)
+- [Jira Healthtech](/blog/jira-healthtech/)
+- [Asana Hr Tech](/blog/asana-hr-tech/)
+- [Workday Adtech](/blog/workday-adtech/)

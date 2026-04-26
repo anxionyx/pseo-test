@@ -38,3 +38,13 @@ Implementing a customer feedback loop with Monday.com is straightforward. Here's
 
 #### Conclusion
 Disconnected customer feedback loops can have severe consequences for EdTech companies, including poor customer satisfaction, inefficient product development, and increased support tickets. Monday.com can help EdTech companies streamline their customer support workflows and solve the problem of disconnected feedback loops by centralizing customer feedback, automating feedback loops, enhancing collaboration, and tracking key metrics. By implementing a customer feedback loop with Monday.com, EdTech companies can improve customer satisfaction, inform product development, and drive business growth.
+
+## Related Articles
+- [Airtable Biotech](/blog/airtable-biotech/)
+- [Jira Logistics](/blog/jira-logistics/)
+- [Hubspot Retail](/blog/hubspot-retail/)
+- [Datadog Govtech](/blog/datadog-govtech/)
+- [Amplitude Govtech](/blog/amplitude-govtech/)
+- [Datadog Edtech](/blog/datadog-edtech/)
+- [Hubspot Adtech](/blog/hubspot-adtech/)
+- [Canvas Lms For Education](/blog/canvas-lms-for-education/)

@@ -44,3 +44,13 @@ To get started with Figma in telehealth, organizations can take the following st
 * **Train staff**: Train staff on how to use Figma and the unified design system to ensure seamless adoption.
 
 By following these steps, telehealth organizations can start to break down data silos and improve the overall efficiency of their operations. With Figma, telehealth organizations can create a better future for patient care.
+
+## Related Articles
+- [Okta Retail](/blog/okta-retail/)
+- [Amplitude Govtech](/blog/amplitude-govtech/)
+- [Workday Energy](/blog/workday-energy/)
+- [Stripe Legaltech](/blog/stripe-legaltech/)
+- [Snowflake Climate Tech](/blog/snowflake-climate-tech/)
+- [Snowflake Healthtech](/blog/snowflake-healthtech/)
+- [Intercom Retail](/blog/intercom-retail/)
+- [Amplitude Foodtech](/blog/amplitude-foodtech/)

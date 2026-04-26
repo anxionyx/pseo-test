@@ -39,3 +39,13 @@ In the Climate Tech sector, where operational efficiency and sustainability are 
 
 #### Call to Action
 If your Climate Tech company is struggling with fragmented infrastructure visibility, consider leveraging Splunk to unify your monitoring and analytics. [Contact Splunk](https://www.splunk.com/en_us/contact.html) today to learn more about how their solutions can help you achieve operational excellence and support your sustainability goals.
+
+## Related Articles
+- [Monday.Com Healthtech](/blog/monday.com-healthtech/)
+- [Datadog Govtech](/blog/datadog-govtech/)
+- [Hubspot Real Estate Tech](/blog/hubspot-real-estate-tech/)
+- [Salesforce Real Estate Tech](/blog/salesforce-real-estate-tech/)
+- [Datadog Manufacturing](/blog/datadog-manufacturing/)
+- [Asana Cybersecurity](/blog/asana-cybersecurity/)
+- [Datadog Adtech](/blog/datadog-adtech/)
+- [Okta Edtech](/blog/okta-edtech/)

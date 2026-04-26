@@ -43,3 +43,13 @@ For more information on how Asana can help energy companies solve the problem of
 * [Asana for Energy](https://asana.com/energy)
 * [Inventory Synchronization Best Practices](https://asana.com/inventory-synchronization-best-practices)
 * [Asana Integration with Existing Systems](https://asana.com/integrations)
+
+## Related Articles
+- [Hubspot Retail](/blog/hubspot-retail/)
+- [Amplitude Healthtech](/blog/amplitude-healthtech/)
+- [Datadog E Commerce](/blog/datadog-e-commerce/)
+- [Okta E Commerce](/blog/okta-e-commerce/)
+- [Servicenow Telehealth](/blog/servicenow-telehealth/)
+- [Deel Energy](/blog/deel-energy/)
+- [Salesforce Real Estate Tech](/blog/salesforce-real-estate-tech/)
+- [Okta Real Estate Tech](/blog/okta-real-estate-tech/)

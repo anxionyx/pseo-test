@@ -43,3 +43,13 @@ The benefits of using Splunk in energy customer support include:
 
 #### Conclusion
 Disconnected customer feedback loops are a major pain point in energy customer support workflows. However, with Splunk, energy companies can solve this problem and improve their customer support operations. By collecting and analyzing customer feedback, identifying and resolving issues, and improving customer satisfaction, Splunk can help energy companies stay ahead of the competition and build strong, loyal customer relationships. Whether you're looking to improve customer satisfaction, increase efficiency, or enhance visibility, Splunk is the perfect solution for energy companies looking to solve the problem of disconnected customer feedback loops.
+
+## Related Articles
+- [Notion Govtech](/blog/notion-govtech/)
+- [Jira Healthtech](/blog/jira-healthtech/)
+- [Okta Legaltech](/blog/okta-legaltech/)
+- [Snowflake Manufacturing](/blog/snowflake-manufacturing/)
+- [Stripe Climate Tech](/blog/stripe-climate-tech/)
+- [Okta E Commerce](/blog/okta-e-commerce/)
+- [Workday Adtech](/blog/workday-adtech/)
+- [Procore For Construction](/blog/procore-for-construction/)

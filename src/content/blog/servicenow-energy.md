@@ -57,3 +57,13 @@ For more information on how ServiceNow can help energy companies, please visit o
 * Personalized Services
 
 By following these best practices and using ServiceNow, energy companies can overcome the challenge of inconsistent user behavior tracking in cross-platform mobile apps and provide a seamless user experience to their customers.
+
+## Related Articles
+- [Airtable Biotech](/blog/airtable-biotech/)
+- [New Relic E Commerce](/blog/new-relic-e-commerce/)
+- [New Relic Logistics](/blog/new-relic-logistics/)
+- [Amplitude Healthtech](/blog/amplitude-healthtech/)
+- [Splunk Climate Tech](/blog/splunk-climate-tech/)
+- [Okta Energy](/blog/okta-energy/)
+- [Hubspot Real Estate Tech](/blog/hubspot-real-estate-tech/)
+- [Hubspot Biotech](/blog/hubspot-biotech/)
